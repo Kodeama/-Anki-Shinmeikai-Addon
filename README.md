@@ -7,5 +7,5 @@ Here is a video I made explaining how to setup and use the addon:
 https://youtu.be/RSQ5cukeG-o  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RSQ5cukeG-o/0.jpg)](https://youtu.be/RSQ5cukeG-o)  
   
-Gif showcasing how to use the addon to get the definition and kanji an anki card  
+Gif showcasing how to use the addon to get the definition and kanji of a word to an anki card  
 ![](showcase.gif)

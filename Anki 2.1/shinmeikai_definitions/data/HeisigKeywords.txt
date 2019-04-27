@@ -1,0 +1,3008 @@
+一	one
+二	two
+三	three
+四	four
+五	five
+六	six
+七	seven
+八	eight
+九	nine
+十	ten
+百	hundred
+千	thousand
+万	ten thousand
+億	hundred million
+兆	portent
+円	circle
+時	time
+寺	Buddhist temple
+日	day
+月	month
+火	fire
+水	water
+木	tree
+金	gold
+土	soil
+曜	weekday
+週	week
+年	year
+分	part
+何	what
+先	before
+今	now
+来	come
+行	going
+帰	homecoming
+大	large
+中	in
+小	little
+少	few
+多	many
+上	above
+下	below
+右	right
+左	left
+方	direction
+人	person
+入	enter
+出	exit
+外	outside
+内	inside
+本	book
+休	rest
+体	body
+力	power
+協	co-
+目	eye
+口	mouth
+耳	ear
+手	hand
+足	leg
+山	mountain
+川	stream
+空	empty
+海	sea
+毎	every
+石	stone
+田	rice field
+花	flower
+林	grove
+森	forest
+男	male
+女	woman
+子	child
+供	submit
+好	fond
+私	private
+友	friend
+達	accomplished
+家	house
+客	guest
+元	beginning
+天	heavens
+気	spirit
+雨	rain
+雪	snow
+青	blue
+晴	clear up
+明	bright
+暗	darkness
+昨	yesterday
+東	east
+西	west
+南	south
+北	north
+向	yonder
+門	gates
+開	open
+閉	closed
+聞	hear
+間	interval
+高	tall
+安	relax
+低	lower
+最	utmost
+初	first time
+前	in front
+後	behind
+午	noon
+牛	cow
+半	half
+朝	morning
+昼	daytime
+晩	nightfall
+夜	night
+夕	evening
+食	eat
+飲	drink
+飯	meal
+買	buy
+見	see
+言	say
+話	tale
+読	read
+語	word
+英	England
+文	sentence
+字	character
+漢	Sino-
+書	write
+覚	memorize
+会	meeting
+合	fit
+社	company
+員	employee
+満	full
+仕	attend
+事	matter
+故	happenstance
+工	craft
+場	location
+電	electricity
+車	car
+駅	station
+交	mingle
+通	traffic
+道	road-way
+路	path
+地	ground
+図	map
+他	other
+止	stop
+歩	walk
+走	run
+渡	transit
+度	degrees
+近	near
+遠	distant
+長	long
+短	short
+広	wide
+全	whole
+部	section
+国	country
+世	generation
+界	world
+白	white
+黒	black
+赤	red
+銀	silver
+鉄	iron
+肉	meat
+魚	fish
+野	plains
+菜	vegetable
+屋	roof
+米	rice
+茶	tea
+味	flavor
+未	not yet
+末	extremity
+料	fee
+理	logic
+解	unravel
+有	possess
+無	nothingness
+作	make
+使	use
+用	utilize
+費	expense
+消	extinguish
+売	sell
+店	store
+商	make a deal
+品	goods
+販	marketing
+階	story
+段	grade
+値	price
+価	value
+格	status
+春	springtime
+夏	summer
+秋	autumn
+冬	winter
+季	seasons
+暑	sultry
+熱	heat
+寒	cold
+暖	warmth
+温	warm
+台	pedestal
+風	wind
+情	feelings
+報	report
+告	revelation
+新	new
+古	old
+昔	once upon a time
+良	good
+悪	bad
+心	heart
+思	think
+忘	forget
+考	consider
+決	decide
+知	know
+才	genius
+能	ability
+可	can
+不	negative
+郵	mail
+便	convenience
+局	bureau
+番	turn
+号	nickname
+住	dwell
+所	place
+氏	family name
+名	name
+各	each
+県	prefecture
+市	market
+町	village
+村	town
+区	ward
+丁	street
+京	capital
+都	metropolis
+様	Esq.
+御	honorable
+荷	baggage
+物	thing
+重	heavy
+軽	lightly
+量	quantity
+配	distribute
+送	send off
+受	accept
+取	take
+届	deliver
+待	wait
+持	hold
+打	strike
+投	throw
+役	duty
+生	life
+性	sex
+産	products
+活	lively
+徒	junior
+学	study
+校	exam
+教	teach
+育	bring up
+制	system
+勉	exertion
+強	strong
+弱	weak
+引	pull
+押	push
+練	practice
+習	learn
+慣	accustomed
+研	polish
+究	research
+試	test
+験	verification
+質	substance
+問	question
+題	topic
+簡	simplicity
+単	simple
+複	duplicate
+雑	miscellaneous
+難	difficult
+点	spot
+数	number
+回	-times
+個	individual
+枚	sheet of
+勝	victory
+負	defeat
+担	shouldering
+当	hit
+然	sort of thing
+法	method
+律	rhythm
+規	standard
+則	rule
+施	alms
+経	sutra
+済	finish
+営	occupation
+株	stocks
+式	style
+企	undertake
+業	profession
+利	profit
+益	benefit
+収	income
+技	skill
+術	art
+芸	technique
+製	made in...
+造	create
+必	invariably
+要	need
+求	request
+請	solicit
+額	forehead
+計	plot
+算	calculate
+差	distinction
+割	proportion
+残	remainder
+支	branch
+払	pay
+返	return
+借	borrow
+貸	lend
+申	speaketh
+込	crowded
+期	period
+限	limit
+急	hurry
+切	cut
+符	token
+券	ticket
+賃	fare
+代	substitute
+指	finger
+定	determine
+予	beforehand
+約	promise
+束	bundle
+変	unusual
+化	change
+更	grow late
+増	increase
+減	dwindle
+乗	ride
+降	descend
+着	don
+脱	undress
+税	tax
+立	stand up
+座	sit
+席	seat
+欠	lack
+次	next
+運	carry
+転	revolve
+移	shift
+動	move
+働	work
+早	early
+速	quick
+遅	slow
+始	commence
+終	end
+現	present
+在	exist
+実	reality
+過	overdo
+去	gone
+発	discharge
+表	surface
+紙	paper
+絵	picture
+誌	document
+音	sound
+楽	music
+薬	medicine
+歌	song
+欲	longing
+映	reflect
+画	brush stroke
+面	mask
+写	copy
+真	TRUE
+色	color
+形	shape
+型	mould
+種	species
+類	sort
+直	straightaway
+接	touch
+線	line
+角	angle
+曲	bend
+共	together
+同	same
+違	difference
+似	similar
+以	by means of
+旅	trip
+館	Bldg.
+宿	inn
+泊	overnight
+遊	play
+和	harmony
+洋	ocean
+服	clothing
+室	room
+窓	window
+父	father
+母	mama
+親	parent
+族	tribe
+歳	year-end
+姉	elder sister
+妹	younger sister
+兄	elder brother
+弟	younger brother
+第	No.
+娘	daughter
+息	breath
+若	young
+者	someone
+彼	he
+結	tie
+婚	marriage
+果	fruit
+課	chapter
+効	merit
+自	oneself
+由	wherefore
+信	faith
+依	reliant
+頼	trust
+民	people
+主	lord
+義	righteousness
+議	deliberation
+論	argument
+賛	approve
+反	anti-
+対	vis-a-vis
+応	apply
+答	solution
+特	special
+別	separate
+専	specialty
+般	carrier
+的	bull's eye
+普	universal
+並	row
+平	even
+均	level
+等	etc.
+病	ill
+院	Inst.
+医	doctor
+歯	tooth
+科	department
+死	death
+亡	deceased
+忙	busy
+疲	tired
+痛	pain
+禁	prohibition
+煙	smoke
+酒	sake
+酔	drunk
+杯	cupfuls
+危	dangerous
+険	precipitous
+保	protect
+証	evidence
+存	suppose
+注	pour
+意	idea
+確	assurance
+認	acknowledge
+率	ratio
+機	mechanism
+械	contraption
+器	utensil
+材	lumber
+具	tool
+基	fundamentals
+準	semi-
+備	equip
+設	establishment
+説	rumor
+公	public
+園	park
+祭	ritual
+察	guess
+際	occasion
+飛	fly
+航	navigate
+船	ship
+港	harbor
+島	island
+完	perfect
+成	turn into
+功	achievement
+失	lose
+敗	failure
+原	meadow
+因	cause
+資	assets
+源	source
+願	petition
+正	correct
+異	uncommon
+常	usual
+識	discriminating
+非	un-
+調	tune
+整	organize
+節	node
+査	investigate
+検	examination
+提	propose
+案	plan
+示	show
+票	ballot
+標	signpost
+連	take along
+絡	entwine
+続	continue
+相	inter-
+談	discuss
+記	scribe
+憶	recollection
+録	record
+登	ascend
+秒	second
+関	connection
+係	person in charge
+状	status quo
+況	but of course
+態	attitude
+政	politics
+治	reign
+府	municipality
+党	party
+策	scheme
+選	elect
+挙	raise
+択	choose
+候	climate
+補	supplement
+首	neck
+脳	brain
+悩	trouble
+頭	head
+顔	face
+改	reformation
+革	leather
+命	fate
+令	orders
+領	jurisdiction
+組	association
+織	weave
+進	advance
+推	conjecture
+拡	broaden
+責	blame
+任	responsibility
+辞	resign
+委	committee
+託	consign
+勤	diligence
+務	task
+従	accompany
+雇	employ
+績	exploits
+募	recruit
+集	gather
+採	pick
+給	salary
+需	demand
+卒	graduate
+就	concerning
+職	post
+退	retreat
+屈	yield
+契	pledge
+渉	ford
+妥	gentle
+条	twig
+件	affair
+参	visit
+惨	wretched
+加	add
+追	chase
+盟	alliance
+比	compare
+較	contrast
+批	criticism
+判	judgment
+評	evaluate
+感	emotion
+想	concept
+像	statue
+象	elephant
+抽	pluck
+障	hinder
+修	discipline
+傷	wound
+換	interchange
+替	exchange
+災	disaster
+害	harm
+被	incur
+破	rend
+壊	demolition
+救	salvation
+助	help
+援	abet
+派	faction
+遣	dispatch
+警	admonish
+官	bureaucrat
+管	pipe
+犯	crime
+罪	guilt
+盗	steal
+殺	kill
+奪	rob
+逮	apprehend
+捕	catch
+逃	escape
+挑	challenge
+戦	war
+争	contend
+競	vie
+混	mix
+乱	riot
+紛	distract
+統	overall
+総	general
+探	grope
+捜	search
+捨	discard
+拾	pick up
+索	cord
+湖	lake
+池	pond
+深	deep
+浅	shallow
+落	fall
+泳	swim
+波	waves
+流	current
+洪	deluge
+崩	crumble
+洗	wash
+油	oil
+浮	floating
+沈	sink
+没	drown
+将	leader
+永	eternity
+久	long time
+氷	icicle
+河	river
+冷	cool
+凍	frozen
+庫	warehouse
+蔵	storehouse
+臓	entrails
+快	cheerful
+適	suitable
+摘	pinch
+涼	refreshing
+湿	damp
+汚	dirty
+染	dye
+排	repudiate
+廃	abolish
+棄	abandon
+景	scenery
+影	shadow
+響	echo
+環	ring
+境	boundary
+観	outlook
+光	ray
+測	fathom
+太	plump
+陽	sunshine
+宇	eaves
+宙	mid-air
+星	star
+衛	defense
+球	ball
+雲	cloud
+曇	cloudy weather
+震	quake
+振	shake
+揺	swing
+神	gods
+秘	secret
+密	secrecy
+精	refined
+厳	stern
+貴	precious
+遺	bequeath
+跡	tracks
+奇	strange
+寄	draw near
+歴	curriculum
+史	history
+紀	chronicle
+王	king
+宝	treasure
+建	build
+築	fabricate
+構	posture
+橋	bridge
+柱	pillar
+位	rank
+置	placement
+距	long-distance
+離	detach
+停	halt
+周	circumference
+辺	environs
+囲	surround
+範	pattern
+隣	neighboring
+黄	yellow
+横	sideways
+断	severance
+継	inherit
+幅	hanging scroll
+欧	Europe
+州	state
+陸	land
+極	poles
+端	edge
+訪	call on
+房	tassel
+諸	various
+緒	thong
+緑	green
+貨	freight
+貿	trade
+易	easy
+輸	transport
+輪	wheel
+往	journey
+復	restore
+繰	winding
+操	maneuver
+縦	vertical
+渋	astringent
+滞	stagnate
+帯	sash
+携	portable
+併	join
+留	detain
+守	guard
+宅	home
+宛	address
+戻	re-
+起	rouse
+寝	lie down
+静	quiet
+暇	spare time
+趣	gist
+両	both
+片	one-sided
+側	side
+裏	back
+項	paragraph
+印	stamp
+刷	printing
+刊	publish
+冊	tome
+版	printing block
+詳	detailed
+細	dainty
+掲	put up a notice
+載	load
+積	volume
+翻	flip
+訳	translate
+誤	mistake
+訂	revise
+討	chastise
+塗	paint
+添	annexed
+付	adhere
+属	belong
+貼	affix
+省	focus
+略	abbreviation
+概	outline
+念	wish
+含	include
+順	obey
+序	preface
+逆	inverted
+列	file
+例	example
+余	too much
+途	route
+除	exclude
+削	plane
+剰	surplus
+即	instant
+既	previously
+刻	engrave
+締	tighten
+緩	slacken
+栄	flourish
+養	foster
+豊	bountiful
+富	wealth
+副	vice-
+苦	suffering
+労	labor
+困	quandary
+貧	poverty
+乏	destitution
+甘	sweet
+辛	spicy
+幸	happiness
+福	blessing
+祉	welfare
+塩	salt
+砂	sand
+糖	sugar
+漠	vague
+模	imitation
+農	agriculture
+濃	concentrated
+漁	fishing
+薄	dilute
+厚	thick
+圧	pressure
+迫	urge
+縮	shrink
+伸	expand
+倍	double
+超	transcend
+越	surpass
+抜	slip out
+昇	rise up
+膨	swell
+札	tag
+礼	salutation
+謝	apologize
+射	shoot
+程	extent
+優	tenderness
+秀	excel
+透	transparent
+誘	entice
+導	guidance
+希	hope
+望	ambition
+志	intention
+努	toil
+怒	angry
+独	single
+身	somebody
+占	fortune-telling
+拠	foothold
+処	dispose
+仲	go-between
+介	jammed in
+紹	introduce
+招	beckon
+照	illuminate
+夫	husband
+婦	lady
+妻	wife
+奥	core
+互	mutually
+皆	all
+我	ego
+誰	who?
+齢	age
+籍	enroll
+愛	love
+恋	romance
+誕	nativity
+延	prolong
+祝	celebrate
+純	genuine
+粋	chic
+夢	dream
+錯	confused
+慎	humility
+泣	cry
+涙	tears
+笑	laugh
+喜	rejoice
+恥	shame
+弁	valve
+護	safeguard
+士	gentleman
+看	watch over
+患	afflicted
+肯	agreement
+否	negate
+述	mention
+裁	tailor
+訴	accusation
+迷	astray
+惑	beguile
+域	range
+疑	doubt
+謎	riddle
+著	renowned
+権	authority
+侵	encroach
+偽	falsehood
+為	do
+贈	presents
+賠	compensation
+償	reparation
+賞	prize
+与	bestow
+財	property
+貯	savings
+預	deposit
+融	dissolve
+隔	isolate
+了	complete
+承	acquiesce
+納	settlement
+得	gain
+損	damage
+燃	burn
+焼	bake
+燥	parch
+乾	drought
+幹	tree trunk
+酸	acid
+素	elementary
+炭	charcoal
+岩	boulder
+岸	beach
+庭	courtyard
+桜	cherry tree
+咲	blossom
+吹	blow
+散	scatter
+植	plant
+根	root
+板	plank
+草	grass
+葉	leaf
+呼	call
+吸	suck
+及	reach out
+扱	handle
+級	class
+胸	bosom
+腹	abdomen
+腰	loins
+肺	lungs
+胃	stomach
+皿	dish
+血	blood
+液	fluid
+溶	melt
+容	contain
+背	stature
+骨	skeleton
+滑	slippery
+折	fold
+析	chop
+健	healthy
+康	sane
+診	checkup
+珍	rare
+療	heal
+毒	poison
+菌	germ
+症	symptoms
+清	pure
+潔	undefiled
+監	oversee
+督	coach
+撮	snapshot
+描	sketch
+躍	leap
+再	again
+編	compilation
+放	set free
+視	inspection
+聴	listen
+衣	garment
+装	attire
+仮	provisional
+鏡	mirror
+銅	copper
+演	performance
+劇	drama
+悲	sad
+団	group
+固	harden
+美	beauty
+博	Dr.
+展	unfold
+催	sponsor
+促	stimulate
+典	code
+殊	particularly
+徴	indications
+微	delicate
+妙	exquisite
+免	excuse
+許	permit
+訓	instruction
+詞	parts of speech
+司	director
+購	subscription
+講	lecture
+師	expert
+授	impart
+伝	transmit
+鳥	bird
+鳴	chirp
+声	voice
+卵	egg
+匹	equal
+犬	dog
+馬	horse
+駐	parking
+騒	boisterous
+飼	domesticate
+刺	thorn
+激	violent
+興	entertain
+奮	stirred up
+驚	wonder
+至	climax
+致	doth
+到	arrival
+倒	overthrow
+債	bond
+斜	diagonal
+傾	lean
+坂	slope
+狭	cramped
+徐	gradually
+硬	stiff
+軟	soft
+柔	tender
+緊	tense
+張	lengthen
+衝	collide
+突	stab
+触	contact
+壁	wall
+避	evade
+軍	army
+隊	regiment
+墜	crash
+兵	soldier
+核	nucleus
+武	warrior
+銃	gun
+充	allot
+弾	bullet
+丸	round
+攻	aggression
+撃	beat
+爆	bomb
+暴	outburst
+襲	attack
+絶	discontinue
+滅	destroy
+防	ward off
+妨	disturb
+嫌	dislike
+撤	remove
+徹	penetrate
+底	bottom
+抵	resist
+抗	confront
+敵	enemy
+脅	threaten
+威	intimidate
+勢	forces
+姿	figure
+恐	fear
+怖	dreadful
+竜	dragon
+巨	gigantic
+拒	repel
+糸	thread
+系	lineage
+孫	grandchild
+絹	silk
+綿	cotton
+縁	affinity
+繊	slender
+維	fiber
+紡	spinning
+紳	sire
+累	accumulate
+繁	luxuriant
+緯	horizontal
+偉	admirable
+韓	Korea
+刀	sword
+刃	blade
+忍	endure
+耐	-proof
+矢	dart
+弓	bow
+弦	bowstring
+弧	arc
+孤	orphan
+爪	claw
+机	desk
+枠	frame
+棚	shelf
+梱	bale
+桁	girder
+棒	rod
+柄	design
+枝	bough
+枯	wither
+朽	decay
+巧	adroit
+某	so-and-so
+媒	mediator
+謀	conspire
+詩	poem
+謡	Noh chanting
+誇	boast
+詐	lie
+欺	deceit
+訟	sue
+詰	packed
+諾	consent
+譲	defer
+諮	consult with
+該	above-stated
+誠	sincerity
+盛	boom
+謙	self-effacing
+遜	modest
+兼	concurrently
+廉	bargain
+針	needle
+釣	angling
+鋭	pointed
+鈍	dull
+鉱	mineral
+鋼	steel
+鎖	chain
+鈴	small bell
+鉛	lead (metal)
+鎮	tranquillize
+鍵	key
+鍛	forge
+錬	tempering
+錠	lock
+綻	come apart at the seams
+銘	inscription
+鑑	specimen
+鐘	bell
+鉢	bowl
+鍋	pot
+鋳	casting
+寿	longevity
+谷	valley
+俗	vulgar
+裕	abundant
+浴	bathe
+沿	run alongside
+浜	seacoast
+沖	open sea
+湾	gulf
+沼	marsh
+泉	spring
+滝	waterfall
+江	creek
+沢	swamp
+瀬	rapids
+潜	submerge
+淡	thin
+津	haven
+漂	drift
+氾	widespread
+泥	mud
+濁	voiced
+澄	lucidity
+渦	whirlpool
+湯	hot water
+沸	seethe
+濯	laundry
+浄	clean
+浸	immersed
+漏	leak
+濡	drench
+溝	gutter
+潮	tide
+汁	soup
+滴	drip
+潤	wet
+浪	wandering
+渇	thirst
+褐	brown
+喝	hoarse
+叫	shout
+吐	spit
+嘆	sigh
+喫	consume
+虫	insect
+忠	loyalty
+怠	neglect
+懸	suspend
+憩	recess
+恩	grace
+恵	favor
+徳	benevolence
+衡	equilibrium
+街	boulevard
+径	diameter
+征	subjugate
+歪	warped
+井	well
+丼	domburi
+耕	till
+耗	decrease
+豆	beans
+粉	flour
+粒	grains
+粧	cosmetics
+粘	sticky
+糧	provisions
+麦	barley
+畑	farm
+炊	cook
+灯	lamp
+炉	hearth
+炎	inflammation
+灰	ashes
+暦	calendar
+皮	pelt
+膚	skin
+毛	fur
+尾	tail
+髪	hair of the head
+肩	shoulder
+舌	tongue
+鼻	nose
+盲	blind
+唇	lips
+辱	embarrass
+臭	stinking
+匂	aroma
+尻	buttocks
+尿	urine
+尺	shaku
+尽	exhaust
+釈	explanation
+居	reside
+据	set
+掘	dig
+堀	ditch
+塀	fence
+層	stratum
+履	footgear
+覆	capsize
+覇	hegemony
+戸	door
+扉	front door
+扇	fan
+羽	feathers
+翌	the following
+翼	wing
+舟	boat
+舶	liner
+艦	warship
+艇	rowboat
+廷	courts
+羊	sheep
+鮮	fresh
+鯨	whale
+群	flock
+郡	county
+君	old boy
+殿	Mr.
+殴	assault
+穀	cereals
+殻	husk
+旨	delicious
+脂	fat
+肪	obese
+豚	pork
+鶏	chicken
+肥	fertilizer
+胴	trunk
+肌	texture
+腕	arm
+脇	armpit
+脚	shins
+腸	intestines
+肝	liver
+脈	vein
+胎	womb
+肢	limb
+胆	gall bladder
+胞	placenta
+膜	membrane
+幕	curtain
+暮	livelihood
+墓	grave
+芝	turf
+芽	bud
+茎	stalk
+茂	overgrown
+菓	candy
+薦	recommend
+荒	laid waste
+慌	disconcerted
+蘇	resurrect
+葬	interment
+儀	ceremony
+犠	sacrifice
+牲	animal sacrifice
+僧	Buddhist priest
+憎	hate
+仏	Buddha
+坊	boy
+旗	national flag
+旋	rotation
+竹	bamboo
+筆	writing brush
+笛	flute
+簿	register
+筋	muscle
+筒	cylinder
+箇	item
+箱	box
+袋	sack
+裂	split
+布	linen
+己	self
+包	wrap
+抱	embrace
+泡	bubble
+句	phrase
+拘	arrest
+旬	decameron
+殉	martyrdom
+殖	augment
+飽	sated
+飾	decorate
+飢	hungry
+餓	starve
+餌	feed
+凡	mediocre
+帆	sail
+帳	notebook
+旧	olden times
+児	newborn babe
+克	overcome
+妊	pregnancy
+娠	with child
+姓	surname
+嫁	marry into
+婿	bridegroom
+乳	milk
+幼	infancy
+幻	phantasm
+玄	mysterious
+亭	pavilion
+豪	overpowering
+畜	livestock
+蓄	amass
+眼	eyeball
+眠	sleep
+眺	stare
+瞬	wink
+瞳	pupil
+睡	drowsy
+垂	droop
+寸	measurement
+封	seal
+掛	hang
+措	set aside
+拝	worship
+拍	clap
+控	withdraw
+拐	kidnap
+挿	insert
+搬	conveyor
+掃	sweep
+把	grasp
+握	grip
+揃	muster
+披	expose
+擁	hug
+括	fasten
+拓	clear the land
+揮	brandish
+輝	radiance
+艶	glossy
+擬	mimic
+凝	congeal
+抑	repress
+仰	faceup
+迎	welcome
+還	send back
+逐	pursue
+遂	consummate
+迅	swift
+巡	patrol
+逸	elude
+迭	alternate
+遇	interview
+偶	accidentally
+隅	corner
+愚	foolish
+城	castle
+坪	two-mat area
+垣	hedge
+恒	constancy
+培	cultivate
+陪	auxiliary
+剖	divide
+栽	plantation
+伐	fell
+戒	commandment
+幾	how many
+伺	pay respects
+倫	ethics
+俳	haiku
+俊	sagacious
+敏	cleverness
+悔	repent
+侮	scorn
+倣	emulate
+傑	greatness
+傍	bystander
+倹	frugal
+俺	myself
+僕	me
+撲	slap
+僚	colleague
+寮	dormitory
+偏	partial
+遍	everywhere
+冗	superfluous
+穴	hole
+宗	religion
+崇	adore
+宮	Shinto shrine
+宣	proclaim
+宜	best regards
+審	hearing
+憲	constitution
+寂	loneliness
+窒	plug up
+宴	banquet
+寧	rather
+寛	tolerant
+覧	perusal
+臣	retainer
+臨	look to
+閣	tower
+閲	review
+閑	leisure
+闘	fight
+閥	clique
+闇	pitch dark
+哀	pathetic
+衰	decline
+懐	pocket
+惜	pity
+惰	lazy
+慨	rue
+憤	aroused
+噴	erupt
+墳	tomb
+恨	resentment
+愉	pleasure
+悦	ecstasy
+悟	enlightenment
+怪	suspicious
+慢	ridicule
+漫	loose
+悼	lament
+卓	eminent
+歓	delight
+勧	persuade
+唯	solely
+准	quasi-
+焦	char
+礁	reef
+雄	masculine
+雌	feminine
+雅	gracious
+羅	gauze
+隻	vessels
+獲	seize
+穫	harvest
+稚	immature
+稲	rice plant
+穂	ear of a plant
+稼	earnings
+称	appellation
+秩	regularity
+稿	draft
+稀	sparse
+穏	calm
+隠	conceal
+陰	shade
+陥	collapse
+陣	camp
+附	affixed
+随	follow
+髄	marrow
+鬼	ghost
+魔	witch
+魅	fascination
+魂	soul
+塊	clod
+醜	ugly
+卑	lowly
+碑	tombstone
+砕	smash
+磁	magnet
+砲	cannon
+硫	sulfur
+硝	nitrate
+礎	cornerstone
+貝	shellfish
+賄	bribe
+賂	graft
+賢	intelligent
+腎	kidney
+頻	repeatedly
+顧	look back
+煩	anxiety
+頒	partition
+顕	appear
+頑	stubborn
+頂	place on the head
+頃	about that time
+頁	page
+矛	halberd
+盾	shield
+循	sequential
+倉	godown
+創	genesis
+斉	adjusted
+剤	dose
+剣	saber
+刈	reap
+剛	sturdy
+刑	punish
+罰	penalty
+署	signature
+尋	inquire
+凶	villain
+囚	captured
+圏	sphere
+孝	filial piety
+老	old man
+煮	boil
+蒸	steam
+勲	meritorious deed
+烈	ardent
+熟	mellow
+黙	silence
+獣	animal
+伏	prostrated
+献	offering
+駄	burdensome
+駆	drive
+騎	equestrian
+騰	inflation
+丘	hill
+岳	Point
+缶	tin can
+卸	wholesale
+却	instead
+庁	government office
+庶	commoner
+遮	intercept
+麻	hemp
+腐	rot
+床	bed
+畳	tatami mat
+摩	chafe
+擦	grate
+干	dry
+汗	sweat
+軒	flats
+軌	rut
+軸	axis
+轄	control
+輩	comrade
+暫	temporarily
+香	incense
+冒	risk
+帽	cap
+唱	chant
+晶	sparkle
+昆	descendants
+是	just so
+堤	dike
+尊	revered
+敬	awe
+敷	spread
+牧	breed
+赦	pardon
+敢	daring
+勇	courage
+劣	inferiority
+励	encourage
+劾	censure
+勘	intuition
+堪	withstand
+甚	tremendously
+雷	thunder
+霧	fog
+霜	frost
+露	dew
+零	zero
+雰	atmosphere
+霊	spirits
+幽	faint
+盆	basin
+盤	tray
+衆	masses
+舞	dance
+踊	jump
+踏	step
+跳	hop
+蹴	kick
+践	tread
+桟	scaffold
+銭	coin
+里	ri
+厘	rin
+童	juvenile
+埋	bury
+塁	bases
+墨	black ink
+堂	public chamber
+堅	strict
+堕	degenerate
+塾	cram school
+壮	robust
+荘	villa
+奨	exhort
+狂	lunatic
+猶	waver
+猫	cat
+猿	monkey
+狩	hunt
+猟	game hunting
+狙	aim at
+猛	fierce
+獄	prison
+章	badge
+彰	patent
+彫	carve
+彩	coloring
+丈	length
+吏	officer
+央	center
+又	or again
+双	pair
+叙	confer
+叔	uncle
+淑	graceful
+戚	relatives
+祈	pray
+禅	Zen
+裸	naked
+禍	calamity
+襟	collar
+祥	auspicious
+祖	ancestor
+租	tariff
+粗	coarse
+阻	thwart
+且	moreover
+但	however
+酢	vinegar
+酷	cruel
+醸	brew
+酵	fermentation
+酌	bartending
+酪	dairy products
+酬	repay
+郊	outskirts
+邸	residence
+邦	home country
+邪	wicked
+郭	enclosure
+享	receive
+玉	jewel
+皇	emperor
+聖	holy
+呈	display
+呂	spine
+班	squad
+召	seduce
+昭	shining
+哲	philosophy
+啓	disclose
+善	virtuous
+繕	darning
+綱	hawser
+網	netting
+縄	straw rope
+縛	truss
+縫	sew
+糾	twist
+絞	strangle
+紋	family crest
+紺	navy blue
+紫	purple
+紅	crimson
+虹	rainbow
+松	pine tree
+杉	cedar
+梅	plum
+桃	peach tree
+柳	willow
+樹	timber-trees
+棟	ridgepole
+欄	column
+槽	vat
+遭	encounter
+曹	cadet
+亜	Asia
+栓	plug
+枢	hinge
+棺	coffin
+枕	pillow
+楼	watchtower
+巣	nest
+架	erect
+呆	dumbfounded
+棋	chess piece
+碁	Go
+桑	mulberry
+朴	crude
+赴	proceed
+虚	void
+嘘	fib
+戯	frolic
+虜	captive
+虐	tyrannize
+慮	prudence
+憂	melancholy
+璧
+癖	mannerism
+癒	healing
+疫	epidemic
+痴	stupid
+疾	rapidly
+痢	diarrhea
+痘	pox
+岬	headland
+崎	promontory
+峠	mountain peak
+峰	summit
+崖	bluffs
+嵐	storm
+峡	gorge
+岐	branch off
+鼓	drum
+喚	yell
+嘱	entrust
+唆	tempt
+吟	versify
+嚇	upbraid
+噂	gossip
+叱	scold
+尼	nun
+厄	unlucky
+吉	good luck
+舎	cottage
+傘	umbrella
+姫	princess
+妃	queen
+嬢	lass
+壌	lot
+如	likeness
+姻	matrimony
+嫡	legitimate wife
+婆	old woman
+妄	delusion
+娯	recreation
+呉	give
+奴	guy
+隷	slave
+涯	horizon
+潟	lagoon
+渓	mountain stream
+漬	pickling
+潰	defile
+泌	ooze
+汽	vapor
+濫	overflow
+漆	lacquer
+漸	steadily
+洞	den
+浦	bay
+舗	shop
+貞	upright
+偵	spy
+貢	tribute
+貫	pierce
+賀	congratulations
+賦	levy
+賊	burglar
+賭	gamble
+賑	bustling
+蚊	mosquito
+蛇	snake
+蚕	silkworm
+蛮	barbarian
+蛍	lightning bug
+掌	manipulate
+尚	esteem
+苗	seedling
+芋	potato
+菊	chrysanthemum
+藻	seaweed
+薪	firewood
+藩	clan
+華	splendor
+芳	perfumed
+蔑	revile
+薫	fragrant
+慕	pining
+恭	respect
+拭	wipe
+挫	sprain
+挨	shove
+拶	imminent
+挟	sandwiched
+搾	squeeze
+拙	bungling
+抄	extract
+抹	rub
+扶	aid
+拷	torture
+揚	hoist
+摂	vicarious
+搭	board
+塔	pagoda
+坑	pit
+塚	hillock
+壇	podium
+譜	musical score
+詠	recitation
+謁	audience
+謹	discreet
+諦	give up
+諭	rebuke
+誓	vow
+誉	reputation
+俵	bag
+佐	assistant
+仙	hermit
+伯	chief
+侍	waiter
+儒	Confucian
+佳	excellent
+仁	humanity
+侯	marquis
+伴	consort
+畔	paddy ridge
+奉	dedicate
+俸	stipend
+奏	play music
+泰	peaceful
+巻	scroll
+拳	fist
+陶	pottery
+陛	highness
+陵	mausoleum
+隆	hump
+陳	line up
+阪	Heights
+肖	resemblance
+宵	wee hours
+窃	stealth
+窮	hard up
+宰	superintend
+窯	kiln
+賓	V.I.P.
+寡	widow
+冠	crown
+帝	sovereign
+粛	solemn
+執	tenacious
+疎	alienate
+靴	shoes
+屯	barracks
+升	measuring box
+奔	bustle
+弊	abuse
+幣	cash
+斤	ax
+斥	reject
+后	empress
+匠	artisan
+匿	hide
+朱	vermilion
+珠	pearl
+琴	harp
+滋	nourishing
+慈	mercy
+憾	remorse
+忌	mourning
+愁	distress
+悠	remote
+慰	consolation
+懲	penal
+懇	sociable
+墾	groundbreaking
+唐	T'ang
+磨	grind
+庸	comfortable
+慶	jubilation
+廊	corridor
+郷	hometown
+郎	son
+朗	melodious
+凹	concave
+凸	convex
+壱	I (one)
+弐	II (two)
+甲	armor
+乙	fish guts
+丙	third class
+勺	ladle
+匁	monme
+弔	condolences
+丹	cinnabar
+斗	Big Dipper
+孔	cavity
+暁	daybreak
+罷	quit
+款	goodwill
+矯	rectify
+瓶	flower pot
+銑	pig iron
+錘	spindle
+虞	uneasiness
+詔	imperial edict
+遵	abide by
+逝	departed
+遷	transition
+逓	parcel post
+謄	facsimilie
+脹	dilate
+塑	model
+衷	inmost
+喪	miss
+褒	praise
+麗	lovely
+篤	fervent
+尉	military officer
+爵	baron
+斎	purification
+翁	venerable old man
+韻	rhyme
+賜	grant
+勅	imperial order
+嗣	heir
+畝	furrow
+帥	commander
+朕	majestic plural
+璽	imperial seal
+繭	cocoon
+吾	I
+朋	companion
+昌	prosperous
+旭	rising sun
+旦	nightbreak
+亘	span
+只	only
+汐	eventide
+埼	cape
+圭	squared jewel
+鯉	carp
+桂	Japanese Judas-tree
+柏	oak
+梢	treetops
+杏	apricot
+桐	paulownia
+沫	splash
+荻	reed
+辻	crossing
+幌	canopy
+錦	brocade
+嬌	attractive
+匕	spoon
+乞	beg
+茨	briar
+曽	formerly
+栃	horse chestnut
+蝶	butterfly
+亀	tortoise
+羨	envious
+曰	sayeth
+串	shish kebab
+乃	from
+允	license
+蜜	honey
+裳	skirt
+梨	pear tree
+笠	bamboo hat
+笹	bamboo grass
+瓦	tile
+勿	not
+奈	Nara
+袖	sleeve
+伊	Italy
+漕	rowing
+廿	twenty
+藤	wisteria
+之	of
+智	wisdom
+弘	vast
+猪	boar
+渚	strand
+阿	Africa
+窪	depression
+苑	garden
+怨	grudge
+酉	sign of the bird
+梓	catalpa
+睦	intimate
+菱	diamond
+亥	sign of the hog
+椿	camellia
+鎌	sickle
+栗	chestnut
+楠	camphor tree
+彦	lad
+須	ought
+蒲	bullrush
+瓜	melon
+函	bin
+牙	tusk
+鶴	crane
+烏	crow
+蔦	vine
+鳩	pigeon
+媛	beautiful woman
+岡	Mount
+駒	pony
+虎	tiger
+鹿	deer
+熊	bear
+寅	sign of the tiger
+辰	sign of the dragon
+丑	sign of the cow
+卯	sign of the hare
+巳	sign of the snake
+此	this here
+柴	brushwood
+砦	fort
+些	whit
+髭	beard
+璃	crystal
+禽	fowl
+檎	apple
+憐	sympathize with
+燐	phosphorus
+麟	camelopard
+鱗	scaled
+奄	encompassing
+庵	hermitage
+掩	shrouded
+悛	make amends
+駿	steed
+峻	steep
+竣	complete a job
+臼	mortar
+舅	father-in-law
+鼠	mouse
+鑿	bore
+毀	break
+艘	small craft
+犀	rhinoceros
+皐	lunar month
+脊	spinal column
+畷	rice-field footpath
+綴	mend
+爾	let it be
+鎧	suit of armor
+凱	triumph
+妖	bewitched
+沃	irrigate
+呑	quaff
+韮	leek
+籤	lottery
+懺	penitential
+芻	hay
+雛	chick
+趨	scurry
+尤	understandably
+稽	training
+厖	immense
+采	grab
+或	a
+斬	chop off
+兎	rabbit
+也	est
+尭	lofty
+巴	comma-design
+甫	offspring
+疋	critters
+菫	violet
+曼	mandala
+巾	towel
+云	quote
+卜	augury
+喬	heaven-high
+莫	shalt
+倭	Yamato
+侠	chivalry
+倦	fed up
+佼	comely
+俄	abrupt
+佃	work a field
+伶	minstrel
+仔	animal offspring
+仇	foe
+伽	look after
+僅	trifle
+僻	biased
+儲	make a profit
+倖	bliss
+僑	emigrant
+侶	partner
+伎	performing artist
+侃	integrity
+倶	mate
+侭	as is
+佑	adjutant
+俣	fork in a road
+傭	hire
+偲	memorial
+脩	dried meat
+倅	my son
+做	make do
+凄	nifty
+冴	sharp
+凋	wilt
+凌	pull through
+冶	metallurgy
+凛	stately
+凧	kite
+凪	lull
+夙	earlybird
+鳳	phoenix
+劉	slaughter
+刹	moment
+剥	peel off
+剃	shave
+勾	flexed
+厭	despondent
+雁	wild goose
+贋	counterfeit
+厨	kitchen
+仄	insinuate
+哨	scout
+嘲	derision
+咎	reprehend
+囁	whisper
+喋	chatter
+咽	windpipe
+嘩	quarrel
+咳	cough
+喧	clamor
+喉	throat
+唾	saliva
+叩	bash
+啄	peck at
+呪	curse
+吠	barking
+吊	dangle
+噛	chew
+叶	within my ability
+吻	sides of the mouth
+吃	stammer
+噺	spin a tale
+噌	miso
+唄	pop song
+邑	city walls
+喰	ingest
+埴	clay
+坤	authochthonous
+堆	piled high
+壕	dugout
+垢	blemish
+坦	flat
+埠	wharf
+填	stuff up
+堰	dam
+堵	railing
+嬰	suckling infant
+姦	violate
+妬	jealous
+婢	handmaiden
+婉	well finished
+娼	harlot
+妓	courtesan
+娃	fair
+姪	niece
+嫉	envy
+嬬	mistress
+姥	aged woman
+姑	mother-in-law
+姐	young miss
+嬉	overjoyed
+孕	expecting
+孜	assiduous
+宥	soothe
+寓	imply
+宏	extensive
+牢	jail
+塞	block up
+宋	Sung dynasty
+宍	venison
+屠	butchering
+屁	fart
+屑	rubbish
+屡	frequently
+屍	corpse
+屏	folding screen
+嵩	high-reaching
+崚	rugged mountains
+峨	high mountain
+嶺	mountaintop
+嵌	fit into
+嵯	rocky
+帖	quire
+幡	banner
+幟	pennant
+庖	cleaver
+廓	licensed quarters
+庇	overhang
+鷹	hawk
+庄	shire
+廟	tomb sanctuary
+彊	strengthen
+弥	more and more
+弛	loosen
+粥	rice gruel
+挽	lathe
+撞	bump into
+扮	disguise
+掠	pillage
+掴	clutch
+捺	impress
+捻	wrenching
+掻	scratch
+撰	assortment
+捌	deal with
+撹	churn up
+摺	rubbing
+按	press down on
+捉	nab
+播	disseminate
+揖	interpretation
+托	receptable
+捧	dedicate (RTK3)
+撚	twirl
+挺	counter for tools
+擾	commotion
+捗	make headway
+撫	petting
+撒	sprinkle
+擢	outstanding
+捷	spoils
+抉	gouge out
+怯	wince
+惟	ponder
+惚	infatuation
+怜	quickwitted
+惇	considerate
+憧	yearn
+恰	as if
+恢	enlarge
+悌	respect for elders
+湧	bubble up
+澪	canal
+洸	glistening
+滉	bounding main
+漱	gargle
+洲	continent
+洵	swirling waters
+滲	seep
+洒	rinse
+沐	douse
+泪	teardrops
+渾	gushing
+沙	grains of sand
+涜	blaspheme
+淫	lewd
+梁	roofbeam
+澱	sediment
+洛	old Kyoto
+汝	thou
+漉	filter
+瀕	on the verge of
+濠	moat
+溌	spray
+溺	drowning
+湊	port
+淋	solitude
+浩	abounding
+汀	water's edge
+鴻	large goose
+潅	souse
+溢	brimming
+汰	cleanse
+湛	inundate
+淳	immaculate
+渥	moisten
+灘	rough seas
+汲	draw water
+瀞	river pool
+溜	cumulation
+渕	abyss
+沌	chaos
+汎	pan
+濾	strainer
+淀	eddy
+涅	fabrication
+釜	cauldron
+斧	hatchet
+爺	grandpa
+猾	sly
+猥	indecent
+狡	cunning
+狸	racoon dog
+狼	wolf
+狽	flustered
+狗	pup
+狐	fox
+狛	a-un
+獅	lion
+狒	baboon
+莨	tobacco
+茉	jasmine
+莉	hawthorn
+苺	strawberry
+萩	bush clover
+藝	technique [old]
+薙	trim
+蓑	straw raincoat
+萎	numb
+苔	moss
+蕩	prodigal
+蔽	cover over
+蔓	tendril
+蓮	lotus
+芙	lotus flower
+蓉	lotus blossom
+蘭	orchid
+芦	hollow reed
+薯	yam
+菖	iris
+蕉	banana
+芯	wick
+蕎	buckwheat
+蕗	butterbur
+藍	indigo
+茄	eggplant
+苛	bullying
+蔭	behind the scenes
+蓬	wormwood
+芥	mustard
+萌	germinate
+葡	grape
+萄	grape vine
+蕃	grow wild
+苓	cocklebur
+菰	rush mat
+蒙	darken
+茅	grassy reed
+芭	plantain
+苅	mow
+蓋	lid
+葱	onion
+葵	hollyhock
+葺	shingling
+蕊	stamen
+茸	mushroom
+蒔	sowing
+芹	parsley
+苫	thatching
+葛	kudzu
+蒼	pale blue
+藁	straw
+蕪	turnip
+藷	sweet potato
+薮	quack
+蒜	garlic
+蕨	bracken
+蔚	grow plentiful
+茜	madder red
+莞	candle rush
+蒐	collector
+菅	sedge
+葦	ditch reed
+迪	Way
+辿	track down
+這	crawl
+迂	detour
+遁	elude (RTK3)
+逢	tryst
+遥	far off
+遼	remote (RTK3)
+逼	pressing
+迄	until
+逗	standstill
+郁	cultured
+鄭	courtesy
+隙	chink
+隈	nook
+憑	possessed
+惹	attract
+悉	without exception
+忽	instantaneously
+惣	firstborn son
+愈	in the nick of time
+恕	sensitive
+昴	overarching
+晋	progress
+曖	equivocal
+晟	aglow
+暈	halo
+暉	glitter
+旱	dry weather
+晏	clear skies
+晨	morrow
+晒	bleaching
+昧	obscure
+晃	limpid
+曝	air out
+曙	dawn
+昂	elevate
+旺	effulgent
+昏	dusk
+晦	last day of the month
+股	thigh
+膿	pus
+腑	viscera
+胱	bladder
+胚	embryo
+肛	anus
+臆	cowardice
+膝	knee
+脆	fragile
+肋	rib
+肘	elbow
+腔	body cavity
+腺	gland
+腫	tumor
+膳	dining tray
+肱	armrest
+胡	uncivilized
+楓	maple tree
+楊	purple willow
+椋	Oriental elm
+榛	hazel
+櫛	comb
+槌	wooden hammer
+樵	mallet
+梯	ladder
+椅	chair
+柿	persimmon
+柑	citrus tree
+杭	picket
+柊	holly
+柚	citron
+椀	wooden bowl
+栂	hemlock
+柾	spindle tree
+榊	sacred Shinto tree
+樫	evergreen oak
+槙	Chinese black pine
+楢	Japanese oak
+橘	mandarin orange
+桧	Japanese cypress
+棲	roost
+栖	nestle
+梗	spiny
+桔	bellflower
+杜	temple grove
+杷	grain rake
+梶	oar
+杵	wooden pestle
+杖	cane
+椎	sweet oak
+樽	barrel
+柵	palisade
+櫓	turret
+橿	sturdy oak
+杓	wooden ladle
+李	damson
+棉	raw cotton
+楯	escutcheon
+榎	hackberry
+樺	birch
+槍	lance
+柘	wild mulberry
+枇	loquat
+樋	downspout
+橇	sled
+槃	enjoyment
+栞	bookmark
+椰	coconut tree
+檀	sandalwood
+樗	plotosid
+槻	zelkova
+椙	cryptomeria
+彬	copious
+桶	bucket
+楕	ellipse
+樒	star-anise
+毬	furball
+燿	twinkle
+燎	watchfire
+炬	torch
+焚	kindle
+灸	moxa
+燭	candlelight
+煽	fanning
+煤	soot
+煉	firing
+燦	dazzling
+灼	refulgent
+烙	branding
+焔	flames
+熔	fuse metal
+煎	roast
+烹	stew
+牽	tug
+牝	female animal
+牡	male animal
+瑶	precious stone
+琳	chime
+瑠	marine blue
+斑	speckled
+琉	lapis lazuli
+弄	tinker with
+瑳	burnish
+琢	hone
+珊	coral
+瑚	coral reef
+瑞	fortunate
+珪	silicon
+玖	jet
+瑛	crystal stone
+玩	toy
+玲	tinkling
+畏	apprehensive
+畢	lastly
+畦	paddy-field ridge
+痒	itch
+痰	phlegm
+疹	measles
+痔	hemorrhoids
+癌	cancer
+痩	lose weight
+痕	scar
+痺	paralysis
+眸	apple of the eye
+眩	dizzy
+瞭	obvious
+眉	eyebrow
+雉	pheasant
+矩	carpenter's square
+磐	crag
+碇	grapnel
+碧	blue-green
+硯	inkstone
+砥	grindstone
+碗	teacup
+碍	obstacle
+碩	illustrious
+磯	rocky beach
+砺	whetstone
+碓	mill
+禦	fend off
+祷	beseech
+祐	ancestral tablet
+祇	local god
+祢	ancestral shrine
+禄	salarium
+禎	felicitation
+秤	balancing scales
+黍	millet
+禿	bald
+稔	bear fruit
+稗	crabgrass
+穣	bumper crop
+稜	imperial authority
+穆	obeisant
+窺	peep
+窄	tight
+窟	cavern
+穿	drill
+竃	kitchen stove
+竪	longness
+颯	rustling
+站	outpost
+靖	repose
+妾	concubine
+衿	lapel
+裾	hem
+袷	lined kimono
+袴	pleated skirt
+襖	sliding door
+笙	Chinese panpipe
+筏	raft
+簾	bamboo blinds
+箪	rattan box
+竿	pole
+箆	spatula
+箔	foil
+笥	wardrobe
+箭	arrow shaft
+筑	ancient harp
+篭	cage
+篠	slender bamboo
+箸	chopsticks
+纂	redaction
+竺	bamboo cane
+箕	winnowing fan
+笈	backpack
+篇	livraison
+筈	should
+簸	winnow
+粕	settlings
+糟	lees
+糊	paste
+籾	unhulled rice
+糠	rice bran
+糞	excrement
+粟	foxtail millet
+繋	link up
+綸	twine
+絨	carpet yarn
+絆	ties
+緋	scarlet
+綜	synthesis
+紐	string
+紘	chinstrap
+纏	summarize
+絢	gorgeous
+繍	embroidery
+紬	pongee
+綺	ornate
+綾	damask
+絃	catgut
+縞	stripe
+綬	gimp
+紗	gossamer
+舵	rudder
+舷	gunwale
+聯	strung together
+聡	attentive
+聘	summons
+耽	addiction
+耶	exclamation
+蚤	flea
+蟹	crab
+蛋	protein
+蟄	hibernation
+蝿	housefly
+蟻	ant
+蜂	bee
+蝋	wax
+蝦	shrimp
+蛸	octopus
+螺	screw
+蝉	cicada
+蛙	frog
+蛾	moth
+蛤	clam
+蛭	leech
+蛎	oyster
+罫	ruled lines
+罵	insult
+袈	stole
+裟	monk's sash
+戴	accept humbly
+截	incision
+哉	I wonder
+詢	counsel
+諄	polite
+讐	vendetta
+諌	remonstrate
+諒	verify
+讃	compliment
+訊	query
+訣	split up
+詣	visit a shrine
+詮	elucidate
+詑	prevarication
+誼	familiarity
+謬	fallible
+詫	beg pardon
+諏	advise
+諺	proverb
+誹	slander
+謂	so-called
+諜	secret agent
+註	footnote
+譬	parable
+轟	rumble
+輔	reinforce
+輻	spoke
+輯	assemble
+貌	countenance
+豹	panther
+賎	despicable
+貰	get
+躓	stumble
+蹄	hoof
+蹟	vestiges
+跨	straddle
+跪	kneel
+醤	soy sauce
+醍	whey
+酎	hooch
+醐	ghee
+醒	awakening
+醇	strong saké
+麺	noodles
+麹	malt
+釦	button
+銚	keg
+鋤	plow
+鏑	arrowhead
+鋸	handsaw
+錐	awl
+鍬	hoe
+鋲	rivet
+錫	tin
+錨	anchor
+釘	nail
+鑓	javelin
+鋒	sword's point
+鎚	hammer
+鉦	carillion
+錆	rust
+鍾	cluster
+鋏	scissors
+閃	flash
+悶	agony
+閤	side gate
+雫	trickle
+霞	haze
+翰	quill
+斡	auspices
+鞍	saddle
+鞭	whip
+鞘	saddle straps
+鞄	briefcase
+靭	pliable
+鞠	terminate
+頓	immediate
+顛	overturn
+穎	brush tip
+頬	cheek
+頗	exceedingly
+頌	accolade
+顎	chin
+頚	neck and throat
+餐	repast
+饗	feast
+蝕	eclipse
+飴	sweets
+餅	mochi
+駕	stretcher
+騨	piebald
+馳	rush
+騙	cheat
+馴	tame
+駁	rebuttal
+駈	gallop
+驢	donkey
+鰻	eel
+鯛	sea bream
+鰯	sardine
+鱒	trout
+鮭	salmon
+鮪	tuna
+鮎	sweet smelt
+鯵	horse mackerel
+鱈	cod
+鯖	mackerel
+鮫	shark
+鰹	bonito
+鰍	bullhead
+鰐	alligator
+鮒	crucian
+鮨	sushi
+鰭	fish fin
+鴎	seagull
+鵬	roc
+鸚	parakeet
+鵡	parrot
+鵜	cormorant
+鷺	heron
+鷲	eagle
+鴨	wild duck
+鳶	kite falcon
+梟	owl
+塵	dust
+麓	foot of a mountain
+麒	giraffe
+冥	Hades
+瞑	close the eyes
+暝	murky
+坐	sitting in mediation
+朔	first day of the month
+遡	go upstream
+曳	drag
+洩	dribble out
+彗	comet
+慧	astute
+嘉	applaud
+兇	evil
+兜	helmet
+爽	bracing
+欝	depressed
+劫	kalpa
+勃	erection
+歎	bemoan
+輿	palanquin
+巽	southeast
+翠	jade green
+黛	blue-black
+鼎	tripod
+鹵	rocksalt
+鹸	lye
+虔	reserved
+燕	swallow
+嘗	lick
+殆	almost
+孟	start
+牌	mahjong tiles
+骸	remains
+覗	peek
+彪	mottled
+秦	Manchu dynasty
+雀	sparrow
+隼	peregrine falcon
+耀	shimmering
+夷	ebisu
+嚢	cyst
+暢	carefree
+廻	circling
+畿	capital suburbs
+欣	elation
+毅	stalwart
+斯	this
+匙	wooden spoon
+匡	set straight
+肇	founding
+麿	Utamaro
+叢	conglomerate
+肴	entreat
+斐	symmetrically patterned
+卿	magistrate
+翫	fiddle with
+於	within
+套	hackneyed
+叛	rebellion
+尖	sharp point
+壷	crock
+叡	sapience
+酋	chieftain
+鴬	nightingale
+赫	incandescent
+臥	supinate
+甥	nephew
+瓢	gourd
+琵	biwa
+琶	lute
+叉	forked
+舜	rose of Sharon
+畠	dry field
+圃	vegetable patch
+丞	helping hand
+亮	translucent
+胤	blood relative
+疏	transcription
+膏	ointment
+魁	pioneer
+馨	ambrosial
+牒	label
+瞥	glimpse
+阜	large hill
+睾	testicle
+巫	sorceress
+敦	empathetic
+奎	Andromeda
+翔	soar
+皓	beaming
+黎	tenebrous
+赳	bold
+已	stop short
+棘	thornbush
+聚	crowd
+甦	resucitate
+剪	pruning
+躾	upbringing
+夥	plentiful
+鼾	snore
+祟	cast a spell
+粁	kilometer
+糎	centimeter
+粍	millimeter
+噸	ton
+哩	mile
+浬	nautical mile
+吋	inch
+呎	feet
+梵	brahman
+陀	Shakyamuni Buddha
+薩	bodhisattva
+菩	bo tree
+唖	babble
+迦	Sanskrit ka
+那	interrogative
+牟	moo
+珈	jeweled hairpin
+琲	beaded hairpin
+檜	Japanese cypress [old]
+轡	bridle's bit
+淵	abyss [old]
+伍	V
+什	X
+萬	ten thousand [old]
+邁	pass through
+逞	tough
+燈	lamp [old]
+裡	back [old]
+薗	park [alternate]
+鋪	shop [alternate]
+嶋	island [alternate]
+峯	summit [alternate]
+巌	boulder [old]
+埜	plains [old]
+舘	Bldg. [old]
+龍	dragon [old]
+寵	patronage
+聾	deafness
+慾	longing [old]
+亙	span [old]
+躯	body [old]
+嶽	Point [old]
+國	country [old]
+脛	shin
+勁	formidable
+箋	stationary
+祀	enshrine
+祓	exorcism
+躇	dither
+壽	longevity [old]
+躊	hesitate
+彙	glossary
+饅	bean jam
+嘔	retch
+鼈	snapping turtle
+亨	go smoothly
+侑	condone
+梧	parasol tree
+欽	circumspect
+煕	cheer
+而	and then
+掟	mandate

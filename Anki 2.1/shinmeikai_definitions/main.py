@@ -3,15 +3,22 @@
 from aqt import mw
 from aqt.utils import showInfo
 from aqt.qt import *
+import importlib
 
 from anki.hooks import addHook
-from japanese.reading import mecab
 
 from shinmeikai_definitions import config, shinmeikai, jpParser
 
 conf = config.Config()
 
+# Importing mecab from Japanese Support or MIA Japanese Support
+try:
+    reading = importlib.import_module('3918629684.reading')
+except: # If Japanese Support not installed
+    reading = importlib.import_module('MIAJapaneseSupport.reading')
 
+mecab = reading.MecabController()
+mecab.setup()
 
 #ANKI SPECIFIC
 def generateDefinitions(selectedNotes):
@@ -33,7 +40,6 @@ def generateDefinitions(selectedNotes):
                     if field in note:
                         if not note[field]:
                             note[field] = rtkKeywords
-
 
         src = None
         for field in conf.defSrcField:

@@ -13,11 +13,12 @@ conf = config.Config()
 
 # Importing mecab from Japanese Support or MIA Japanese Support
 try:
-    reading = importlib.import_module('3918629684.reading')
-except: # If Japanese Support not installed
     reading = importlib.import_module('MIAJapaneseSupport.reading')
+    mecab = reading.MecabController()
+except: # If MIA Japanese Support Plugin is not Installed
+    reading = importlib.import_module(conf.japaneseSupportPluginFolderName+'.reading')
+    mecab = reading.mecab
 
-mecab = reading.MecabController()
 mecab.setup()
 
 #ANKI SPECIFIC
@@ -100,6 +101,8 @@ def getCompleteDefinitionsForWord(targetWord):
     sortedDefs = sortDefinitions(defs)
     optimallySelectedDefs = removeOverflowDefinitions(sortedDefs)
     formatedDef = defListToString(optimallySelectedDefs)
+    if formatedDef == None:
+        return "";
     if conf.addFuriganaToDef:
         formatedDef = mecab.reading(formatedDef)
     completeDefinitions = correctSpacing(formatedDef)

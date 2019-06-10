@@ -3,7 +3,7 @@
 class Config(object):
     enableKanjiKeywords = True
     addFuriganaToDef = True
-    maxNumberOfDefs = 3
+    maxNumberOfDefs = 4
     orderDefByFreq = True
     defSrcField = ["Focus"]
     defDstField = ["Meaning"]

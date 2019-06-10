@@ -32,7 +32,7 @@ def getWordFreq(hira, kanji):
             regex = ""+k+"	"+hira+"	(.*?)	"
             matchObj = re.search(regex, contents)
             if matchObj != None and int(matchObj.group(1)) < freq:
-                freq = matchObj.group(1)
+                freq = int(matchObj.group(1))
 
     else:
         regex = ""+kanji+"	"+hira+"	(.*?)	"

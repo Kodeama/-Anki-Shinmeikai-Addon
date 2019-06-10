@@ -81,7 +81,7 @@ def extractKanjiFromElement(org):
     regex = ".*?【(.*?)】"
     matchObj = re.match(regex, org)
     if matchObj == None:
-        returnValue = None
+        return None
     else:
         returnValue = matchObj.group(1)
 

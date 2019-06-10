@@ -12,4 +12,4 @@ class Config(object):
 
     wordFreqList = "10kData.txt"
     kanjiList = "HeisigKeywords.txt"
-    japaneseSupportPluginFolderName="japanese"
+    japaneseSupportPluginFolderName="3918629684"

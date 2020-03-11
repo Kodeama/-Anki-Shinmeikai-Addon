@@ -7,13 +7,15 @@ from aqt import mw
 from shinmeikai_definitions import config
 from codecs import open
 
-source_directory = os.path.join(os.path.dirname(__file__),'data\\')
+source_directory = os.path.join(os.path.dirname(__file__),'data')
+wordFreqListFileName = os.path.join(source_directory, config.Config().wordFreqList)
+kanjiListFileName = os.path.join(source_directory, config.Config().kanjiList)
 
-dict = open(source_directory+config.Config().wordFreqList, "rb")
+dict = open(wordFreqListFileName, "rb")
 contents = dict.read().decode("UTF-8")
 dict.close()
 
-dict = open(source_directory+config.Config().kanjiList, "rb")
+dict = open(kanjiListFileName, "rb")
 kanjiList = dict.read().decode("UTF-8")
 dict.close()
 

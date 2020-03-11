@@ -6,7 +6,10 @@ from aqt.utils import showInfo
 from aqt.qt import *
 
 #parserObj = parser.Parser()
-source_directory = os.path.join(os.path.dirname(__file__),'data\\')
+source_directory = os.path.join(os.path.dirname(__file__),'data')
+
+dictFileNamePrefix = os.path.join(source_directory, "Shinmeikai", "shinmeikai_")
+
 amountOfDictionaryFiles = 9
 
 def getDefsOfWord(word, conf):
@@ -26,7 +29,7 @@ def searchForWordInShinmeikai(searchTerm, conf):
 
     #Looks for matches in all shinmeikai dictionary files.
     while True:
-        dict = open(source_directory+"Shinmeikai\\shinmeikai_"+str(dictionaryCounter)+".txt", "rb")
+        dict = open(dictFileNamePrefix +str(dictionaryCounter)+".txt", "rb")
         contents = dict.read().decode("UTF-8")
         dict.close()
 

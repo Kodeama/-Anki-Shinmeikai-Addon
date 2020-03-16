@@ -11,13 +11,56 @@ source_directory = os.path.join(os.path.dirname(__file__),'data')
 wordFreqListFileName = os.path.join(source_directory, config.Config().wordFreqList)
 kanjiListFileName = os.path.join(source_directory, config.Config().kanjiList)
 
-dict = open(wordFreqListFileName, "rb")
-contents = dict.read().decode("UTF-8")
-dict.close()
+# for words not found
+veryLargeFreq  = 999999
+# for words in the frequency file, but without a frequency
+emptyFrequency = 888888
 
-dict = open(kanjiListFileName, "rb")
-kanjiList = dict.read().decode("UTF-8")
-dict.close()
+
+
+def readDict(file, parseFun):
+    # parseFun should a tuple, the first is the key, the second the value
+    with open(file, encoding="utf-8") as f:
+        lines = [parseFun(line) for line in f if "\t" in line]
+    return dict(lines)
+
+def readKeywords(file):
+
+    def parse_line(line):
+        f = line.rstrip().split("\t")[:2]
+        assert len(f) == 2
+        return (f[0], f[1])
+
+    return readDict(file, parse_line)
+
+def readFrequency(file):
+
+    def parse_line(line):
+        f = line.rstrip().split("\t")[:3]
+        assert len(f) >= 2
+        # if the second field does not exist, or
+        # is not a valid number
+        # simply set it to the largefreq
+        try:
+           freqInt = int(f[2])
+        except:
+            freqInt = emptyFrequency
+        return ((f[0], f[1]), freqInt)
+
+    return readDict(file, parse_line)
+
+
+kanjiList = readKeywords(kanjiListFileName)
+
+kanjiFreq = readFrequency(wordFreqListFileName)
+
+
+def getRTKKeyword(str):
+    kanji = filter (lambda a: a in kanjiList, list(str))
+    # filter returns an iterator
+    mappedKanji = map(lambda a: a + ": " + kanjiList.get(a, "this should never happen"), kanji)
+    kanjiField = "</div><div>".join(mappedKanji)
+    return "" if  (kanjiField == "") else ( "<div>" + kanjiField + "</div>")
 
 def stringContainsKanji(searchTerm):
     for c in searchTerm:
@@ -26,45 +69,11 @@ def stringContainsKanji(searchTerm):
             return True
     return False
 
-def getWordFreq(hira, kanji):
-    matchObj = None
-    freq = 999999
-    if isinstance(kanji, list):
-        for k in kanji:
-            regex = ""+k+"	"+hira+"	(.*?)	"
-            matchObj = re.search(regex, contents)
-            if matchObj != None and int(matchObj.group(1)) < freq:
-                freq = int(matchObj.group(1))
+def getWordFrequency(strF, strK):
 
+    if isinstance(strK, list):
+        # iterate through each... find smallest
+        listFreq = map(lambda k: kanjiFreq.get((k, strF), veryLargeFreq), strK)
+        return min(listFreq)
     else:
-        regex = ""+kanji+"	"+hira+"	(.*?)	"
-        matchObj = re.search(regex, contents)
-        if matchObj != None:
-            freq = re.search(regex, contents).group(1)
-
-    #if matchObj == None:
-    #    return 999999 #Just something high so the sort gets this word to the back of the list
-
-    return freq
-
-def getRTKKeyword(kanji):
-    kanjiFound = False
-    kanjiField = ""
-    keywordList = []
-    #print("recieved kanji len: "+ str(len(kanji)))
-    for x in range(0, len(kanji)):
-        #print(str(x))
-        if stringContainsKanji(kanji[x]):
-            #print("Contained kanji")
-            regex = kanji[x]+"\t(.*)"
-            keyword = re.search(regex, kanjiList)
-            #print("Keywords: "+str(keyword))
-            if keyword != None:
-                if kanjiFound:
-                    kanjiField += "<div></div>"
-                kanjiField += ""+kanji[x]
-                kanjiField += " "+str(keyword.group(1)).replace("\r","")
-                kanjiFound = True
-                #print("Found kanji: "+kanji[x]+" = "+keyword.group(1))
-    #print(kanjiField)
-    return kanjiField
+        return kanjiFreq.get((strK, strF), veryLargeFreq)

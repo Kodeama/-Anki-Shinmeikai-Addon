@@ -1,0 +1,2044 @@
+一	un
+二	deux
+三	trois
+四	quatre
+五	cinq
+六	six
+七	sept
+八	huit
+九	neuf
+十	dix
+口	bouche
+日	jour
+月	mois
+田	rizière
+目	œil
+古	vieux
+吾	moi
+冒	risque
+朋	compagnon
+明	clair
+唱	chœur
+晶	étinceler
+品	marchandise
+呂	épine dorsale
+昌	prospère
+早	tôt
+旭	soleil levant
+世	génération
+胃	estomac
+旦	point du jour
+胆	vésicule biliaire
+亘	le temps qui passe
+凹	concave
+凸	convexe
+旧	ancien temps
+自	soi-même
+白	blanc
+百	cent
+中	dedans
+千	mille
+升	boîte mesure
+昇	s'élever
+舌	langue
+丸	arrondi (nombre)
+寸	dimension
+専	spécialité
+博	docteur
+占	la bonne aventure
+上	au-dessus
+下	au-dessous
+卓	éminent (doué)
+朝	matin
+只	le seul
+貝	coquillage
+員	employé
+見	regarder
+児	nouveau-né
+元	commencement
+頁	page
+頑	têtu
+凡	médiocre
+負	porter
+万	myriade
+句	phrase orale
+肌	épiderme
+旬	décade
+勺	louche
+的	cible
+首	cou
+乙	entrailles de poisson
+乱	tumulte
+直	droit devant
+具	outil
+真	exact
+工	ingénierie
+左	gauche
+右	droite
+有	posséder
+賄	corrompre
+貞	intègre
+貢	contribution
+項	paragraphe
+貰	je reçois de toi
+刀	épée
+刃	lame
+切	couper
+召	faire venir à soi
+昭	briller
+則	règlement
+副	vice-
+別	séparer
+丁	pâté de maison
+町	quartier
+可	possible
+頂	placer au sommet
+子	enfant
+孔	cavité
+了	achevé
+女	femme
+好	aimer
+如	paraître
+母	maman
+貫	percer
+兄	frère aîné
+克	surmonter
+小	petit
+少	un petit peu de
+大	grand
+夕	soirée
+多	beaucoup
+汐	marée du soir
+外	extérieur
+名	nom
+石	pierre
+肖	portrait
+硝	nitrate
+砕	fracasser
+砂	sable
+削	rabot
+光	rayon
+太	gros
+器	ustensile
+臭	sentir mauvais
+妙	bizarre
+省	faire le point
+県	département
+厚	épais
+奇	étrange
+川	rivière
+州	provinces
+順	obéir
+水	eau
+氷	glaçon
+永	éternité
+泉	fontaine
+原	prairie
+願	souhait
+泳	nager
+沼	marécage
+沖	grand large
+江	crique
+汁	soupe
+潮	marée du matin
+源	source
+活	animé
+消	éteindre
+況	évidemment
+河	fleuve
+泊	passer la nuit
+湖	lac
+測	sonder
+土	terre
+吐	cracher
+圧	pression
+埼	cap
+垣	haie
+圭	joyau
+封	sceller
+涯	horizon
+寺	temple bouddhique
+時	temps
+均	nivelé
+火	feu
+炎	inflammation
+煩	tourment
+淡	dilué
+灯	lampe
+畑	ferme
+災	désastre
+灰	cendre
+点	point
+照	illuminer
+魚	poisson
+漁	halieutique
+里	hameau
+黒	noir
+墨	encre
+鯉	carpe
+量	quantité
+厘	firfelin
+埋	enterrer
+同	identique
+洞	antre
+胴	tronc (du corps)
+円	cercle
+向	éloigné
+尚	vénérer
+字	caractère
+守	garder
+完	parfait
+宣	proclamer
+宵	heure tardive
+安	paix
+宴	banquet
+賓	hôte de marque
+寄	s’approcher
+富	fortune
+貯	économies
+木	arbre
+林	bois
+森	forêt
+桂	gainier japonais
+柏	chêne
+枠	cadre
+梢	cime des arbres
+棚	étagère
+杏	abricot
+桐	paulownia
+植	planter
+枯	dépérir
+朴	brut
+村	village
+相	inter-
+机	bureau
+本	livre
+札	étiquette
+暦	calendrier
+案	projet
+燥	dessécher
+染	teindre
+未	encore
+末	extrémité
+沫	écume
+味	goût
+妹	soeur cadette
+朱	vermillon
+株	action boursière
+若	jeune
+草	herbe
+苦	souffrir
+寛	tolérant
+薄	fin (adjectif)
+葉	feuille
+模	maquette
+漠	vague (adjectif)
+墓	tombe
+暮	mener sa vie
+膜	membrane
+苗	plant
+兆	augures
+桃	pêche (le fruit)
+眺	dévisager
+犬	chien
+状	état des choses
+黙	silence
+然	une certaine chose
+荻	roseau commun
+狩	chasse
+燃	brûler
+猫	chat
+牛	vache
+特	spécial
+告	révélation
+先	avant
+洗	laver
+介	immixtion
+界	monde
+茶	thé
+漆	laque
+合	correspondre
+塔	pagode
+王	roi
+玉	sphère
+宝	trésor
+珠	perle
+現	le présent
+狂	fou
+皇	empereur
+呈	dévoiler
+全	totalité
+栓	bouchon
+理	logique
+主	maître
+注	verser
+柱	colonne
+金	or
+銑	gueuse
+鉢	bol
+銅	cuivre
+釣	pêche à la ligne
+針	aiguille
+銘	inscription
+鎮	tranquilliser
+道	voie
+導	directives
+辻	carrefour
+迅	vif
+造	créer
+迫	harceler
+逃	s'évader
+辺	les environs
+巡	patrouille
+車	voiture
+連	emmener
+軌	ornières
+輸	transport
+前	devant
+各	chacun
+格	rang
+略	abréviation
+客	hôtes
+額	front
+夏	été
+処	traiter
+条	brindille
+落	tomber
+冗	superflu
+軍	armée
+輝	rayonner
+運	tranporter
+冠	couronne
+夢	rêve
+坑	fosse
+高	haut
+享	jouissance
+塾	cours du soir
+熟	mûrir
+亭	pavillon
+京	capitale
+涼	rafraîchissant
+景	paysage
+鯨	baleine
+舎	chaumière
+周	circonférence
+週	semaine
+士	connaisseur
+吉	bonne chance
+壮	robuste
+荘	villa
+売	vendre
+学	étudier
+覚	mémoriser
+栄	florissant
+書	écrire
+津	havre
+牧	élevage
+攻	agressif
+敗	vaincu
+枚	feuille de
+故	destin
+敬	respect
+言	dire
+計	planifier
+警	avertir
+獄	prison
+訂	réviser
+討	débat
+訓	instruction
+詔	édit impérial
+詰	hermétiquement clos
+話	parler
+詠	composer un poème
+詩	poème
+語	langage
+読	lire
+調	enquête
+談	discuter
+諾	consentement
+諭	conseiller
+式	type
+試	test
+弐	II (deux)
+求	réclamer
+球	balle
+救	sauvetage
+域	zone
+戝	bandit
+栽	plantation
+載	charger
+茂	pousser dru
+成	changer en
+城	château
+誠	sincérité
+威	intimidant
+滅	anéantir
+減	diminuer
+桟	échafaudage
+銭	piècette
+浅	peu profond
+止	arrêter
+歩	marcher
+渉	gué
+頻	sans cesse
+肯	accord
+企	entreprendre
+歴	historique
+武	guerrier
+賦	prélèvement
+正	correct
+証	preuve
+政	politique
+定	déterminé
+錠	serrure
+走	courrir
+超	dépasser
+赴	se rendre à
+越	doubler
+歳	fin d'année
+是	comme il faut
+題	sujet
+堤	digue
+建	construire
+延	prolonger
+誕	nativité
+礎	première pierre
+婿	fiancé
+衣	vêtement
+裁	tailleur
+装	revêtir
+裏	arrière
+壊	démolition
+哀	pitoyable
+遠	loin
+猿	singe
+初	première fois
+布	linge
+帆	voile
+幅	largeur
+帽	casquette
+幕	rideaux
+幌	capote
+錦	brocard
+市	marché
+姉	sœur aînée
+肺	poumon
+帯	ceinture
+滞	stagner
+刺	piquer
+制	système
+製	fabriqué en
+転	rouler
+芸	art
+雨	pluie
+雲	nuage
+曇	temps couvert
+雷	tonnerre
+霜	givre
+冬	hiver
+天	cieux
+橋	pont
+嬌	attirant
+立	debout
+泣	pleurer
+章	badge
+競	compétition
+帝	souverain
+童	jeunesse
+瞳	pupille
+鐘	cloche
+商	commerce
+嫡	légitime
+適	approprié
+滴	goutte
+敵	ennemi
+匕	cuiller
+此	ici
+頃	époque
+北	nord
+背	stature
+比	comparer
+昆	descendant
+皆	tout
+混	mélanger
+渇	soif
+謁	audience
+褐	brun
+喝	gronder
+匂	odeur
+旨	délicieux
+脂	graisse
+壱	I (un)
+毎	tous les
+敏	vivacité d'ésprit
+梅	prune
+海	mer
+乞	mendier
+乾	sécheresse
+迄	jusqu'à
+腹	abdomen
+複	duplication
+欠	manquer
+吹	souffler
+炊	cuisiner
+歌	chanson
+軟	mou
+次	suivant
+茨	épine
+資	capital
+姿	figure
+諮	consulter
+賠	dédommagement
+培	culture
+剖	disséquer
+音	son
+暗	obscurité
+韻	rime
+識	connaissances
+鏡	miroir
+境	frontière
+亡	décéder
+盲	aveugle
+妄	insensé
+荒	brutalité
+望	ambition
+方	direction
+妨	entraver
+坊	garçon
+芳	parfum
+肪	gras
+訪	rendre visite
+放	libérer
+於	dans
+激	violent
+脱	désabiller
+説	thèse
+鋭	pointu
+曽	anciennement
+増	augmenter
+贈	cadeau
+東	est
+棟	faîte
+凍	gelé
+妊	enceinte
+廷	tribunaux
+地	sol
+池	étang
+虫	insecte
+蛍	ver luisant
+蛇	serpent
+虹	arc en ciel
+蝶	papillon
+独	célibataire
+蚕	ver à soie
+風	vent
+己	soi
+起	provoquer
+妃	reine
+改	réforme
+記	inscrire
+包	emballer
+胞	placenta
+砲	canon
+泡	bulle
+亀	tortue
+電	électricité
+竜	dragon
+滝	cascade
+豚	proc
+逐	poursuivre
+遂	réussi
+家	maison
+嫁	prendre mari
+豪	écrasant
+腸	intestin
+場	aire
+湯	eau chaude
+羊	mouton
+美	beauté
+洋	océan
+様	apparence
+詳	détaillé
+鮮	frais
+達	accompli
+羨	envieux
+差	différence
+着	enfiler
+唯	unique
+誰	qui
+焦	carboniser
+礁	récif
+集	rassembler
+准	presque
+進	progresser
+雑	divers
+雌	femelle
+準	demi-
+奮	excitation
+奪	dérober (par la force)
+確	certitude
+午	midi
+許	autorisation
+歓	ravissant
+権	pouvoir
+観	perspective
+羽	plume
+習	apprendre
+翌	celui d'après
+曜	jour de la semaine
+濯	rincer
+曰	dixit
+困	embarras
+固	solide
+国	pays
+団	groupe
+因	cause
+姻	conjugal
+園	parc
+回	tourner
+壇	podium
+店	magasin
+庫	entrepôt
+庭	jardin
+庁	bureau du gouverneur
+床	plancher
+麻	chanvre
+磨	polir
+心	cœur
+忘	oublier
+忍	supporter
+認	reconnaître
+忌	répugnant
+志	dessein
+誌	document
+忠	loyal
+串	brochette
+患	souci
+思	penser
+恩	faveur
+応	combler
+意	idée
+想	concept
+息	respirer
+憩	détente
+恵	bénéficier de
+恐	peur
+或	un certain
+惑	perplexe
+感	émotion
+憂	mélencolie
+忙	occupé
+悦	extase
+恒	constance
+悼	déplorer
+悟	initiation
+怖	effrayant
+慌	agité
+悔	regret
+憎	haine
+慣	s'accoutumer
+愉	plaisir
+惰	paresse
+慎	humilité
+憾	remords
+憶	souvenir
+慕	affection
+添	annexer
+必	nécessairement
+泌	suinter
+手	main
+看	regarder attentivement
+摩	irriter
+我	ego
+義	rigueur
+議	délibération
+犠	sacrifice
+抹	frotter
+抱	embrasser
+搭	embarquement
+抄	extraire, fabriquer du papier
+抗	s'opposer à
+批	critiquer
+招	inviter
+拓	déforestation
+拍	applaudir
+打	taper
+拘	arrestation
+捨	jeter
+拐	rapt
+摘	saisir du bout des doigts
+挑	défier
+指	doigt
+持	tenir
+括	lier
+揮	brandir
+推	présumer
+揚	hisser
+提	proposition
+損	nuire
+拾	ramasser
+担	se charger de
+拠	point d'appui
+描	dessiner
+操	manœuvrer
+接	joindre
+掲	afficher
+掛	accrocher
+研	polissage
+戒	châtiment
+械	instrument
+鼻	nez
+刑	peine
+型	moule
+才	génie
+財	propriété
+材	matériau de construction
+存	supposer
+在	exister
+乃	à partir de
+携	portatif
+及	s'étendre
+吸	aspirer
+扱	manipuler
+丈	longueur
+史	histoire
+吏	préposé
+更	enfin
+硬	dur
+又	ou encore
+双	paire
+桑	mûrier
+隻	vaisseaux
+護	protection
+獲	prise
+奴	machin
+怒	colère
+友	ami
+抜	arracher
+投	lancer
+没	sombrer
+設	établir
+撃	battre (attaquer)
+殻	coquille
+支	soutien
+技	habileté
+枝	rameau
+肢	membre
+茎	tige
+怪	méfiant
+軽	léger
+叔	oncle
+督	superviseur
+寂	solitude
+淑	gracieux
+戚	relations familliales
+反	anti
+坂	pente
+板	planche
+返	rendre
+販	commercialisation
+爪	ongle
+妥	amiable
+乳	lait
+浮	flotter
+将	dirigeant
+奨	exhorter
+採	cueillir
+菜	légume
+受	subir
+授	accorder
+愛	amour
+払	payer
+広	large
+拡	élargir
+鉱	minéral
+弁	éloquence
+雄	mâle
+台	piédestal
+怠	négliger
+治	règne
+始	commencer
+胎	fœtus
+去	parti
+法	méthode
+会	réunion
+至	aboutissement
+室	pièce
+到	arrivée
+致	commettre
+互	mutuel
+棄	abandonner
+育	élever
+撤	retirer
+充	repartir
+銃	fusil
+硫	soufre
+流	courant
+允	permission
+唆	inciter
+出	sortir
+山	montagne
+拙	maladroit
+岩	rocher
+炭	charbon de bois
+岐	bifurcation
+峠	col de montagne
+崩	effondrement
+密	secret
+蜜	miel
+嵐	tempête
+崎	promontoire
+入	entrer
+込	encombré
+分	portion
+貧	pauvre
+頒	partager
+寡	très peu
+公	public
+松	pin
+翁	vénérable vieillard
+訟	accusation
+谷	vallée
+浴	bain
+容	contenir
+溶	fondre
+欲	désirer
+裕	aise
+鉛	plomb
+沿	longer
+賞	premier prix
+党	parti politique
+堂	édifice public
+常	habituel
+裳	robe
+掌	paume
+皮	peau
+波	onde
+婆	vieille femme
+披	exposer
+破	déchirer
+被	endosser
+残	reste
+殉	Martyre
+殊	Particulièrement
+殖	croître
+列	File
+裂	fente
+烈	Ardent
+死	mort
+葬	funérailles
+瞬	cligner
+耳	oreille
+取	prendre
+趣	teneur
+最	le plus
+撮	photographier
+恥	honteux
+職	poste de travail
+聖	saint
+敢	audace
+聴	écouter
+懐	poche
+慢	vanité
+漫	imprécis
+買	acheter
+置	placer
+罰	pénalité
+寧	plutôt
+濁	troubler
+環	anneau
+還	renvoyer
+夫	mari
+扶	prêter main forte
+渓	gorge
+規	norme
+替	substituer
+賛	approuver
+潜	s’immerger
+失	Perdre
+鉄	Fer
+迭	transférer
+臣	serviteur
+姫	princesse
+蔵	salle de stockage
+臓	entrailles
+賢	intelligent
+堅	tenace
+臨	se rendre sur place
+覧	prendre connaissance
+巨	gigantesque
+拒	refuser
+力	Force
+男	homme
+労	labeur
+募	recruter
+劣	infériorité
+功	réalisation
+勧	Persuader
+努	s’efforcer
+栃	maronnier d’Inde
+励	encourager
+加	ajouter
+賀	félicitations
+架	eriger
+脇	flanc
+脅	menacer
+協	coopération
+行	aller
+律	rythme
+復	retourner
+得	obtenir
+従	s’ensuivre
+徒	inexpérimenté
+待	attendre
+往	aller simple
+征	Conquête
+径	diamètre
+彼	lui
+役	rôle
+徳	Bienveillance
+徹	transpercer
+徴	caractéristique
+懲	punition
+微	ténu
+街	boulevard
+衡	équilibre
+稿	Brouillon
+稼	gains
+程	étendue
+税	taxe
+稚	immature
+和	harmonie
+移	déplacer
+秒	seconde
+秋	automne
+愁	tristesse
+私	privé
+秩	compacité
+秘	garder secret
+称	appellation
+利	profit
+梨	poire
+穫	récolte
+穂	épi
+稲	plant de riz
+香	senteur
+季	saison
+委	comité
+秀	exceller
+透	transparent
+誘	invitation
+穀	céréale
+菌	microbe
+米	riz
+粉	farine
+粘	collant
+粒	grain
+粧	cosmétique
+迷	égaré
+粋	élégance
+糧	provisions
+菊	chrysanthème
+奥	fond
+数	nombre
+楼	tour de guet
+類	sorte
+竹	bambou
+笑	rire
+笠	chapeau de bambou
+笹	pousse de bambou
+筋	Muscle
+箱	boîte
+筆	pinceau
+筒	cylindre
+等	et ainsi de suite
+算	calculer
+答	solution
+策	moyen
+簿	registre
+築	bâtir
+人	être humain
+佐	assistant
+但	pourtant
+住	résider
+位	position
+仲	relation
+体	corps
+悠	infinité
+件	affaire
+仕	servir
+他	autre
+伏	prostré
+伝	transmettre
+仏	Bouddha
+休	repos
+仮	factice
+伯	chef
+俗	vulgaire
+信	foi
+佳	Excellent
+依	dépendre
+例	exemple
+個	privé
+健	santé
+側	côté
+侍	samouraï
+停	halte
+値	valeur
+倣	suivre l’exemple
+倒	renverser
+偵	espion
+僧	prêtre bouddhiste
+億	cent millions
+儀	cérémonie
+償	compensation
+仙	ermite
+催	mécène
+仁	grandeur d’âme
+侮	mépriser
+使	utiliser
+便	commodité
+倍	double
+優	gentillesse
+伐	abattre
+宿	auberge
+傷	blessure
+保	conserver
+褒	éloge
+傑	grandeur
+付	mettre
+符	ticket
+府	Bureau de gouvernement
+任	responsabilité
+賃	tarif
+代	substituer
+袋	sac
+貸	prêter
+化	transformation
+花	lois fleur
+貨	fret
+傾	incliner
+何	quoi
+荷	bagages
+俊	avisé
+傍	observateur
+久	longtemps
+畝	sillon
+囚	capturer
+内	intérieur
+丙	troisième classe
+柄	manche
+肉	chair
+腐	pourrir
+座	s’accroupir
+卒	fin d’études
+傘	parapluie
+匁	monme
+以	au moyen de
+似	ressembler
+併	faire correspondre
+瓦	tuile
+瓶	bouteille
+宮	sanctuaire
+営	occupation
+善	bien
+年	année
+夜	nuit
+液	liquide
+塚	butte
+幣	especes
+弊	mal
+喚	hurler
+換	interchanger
+融	dissoudre
+施	action
+旋	Rotation
+遊	jouer
+旅	voyage
+勿	pas
+物	objet
+易	variations
+賜	je reçois de vous
+尿	urine
+尼	nonne
+泥	boue
+塀	barrière
+履	chausser
+屋	toit
+握	s’agripper
+屈	se courber
+掘	creuser
+堀	canal
+居	se trouver
+据	assise
+層	strate
+局	local
+遅	retard
+漏	fuite
+刷	imprimer
+尺	shaku
+尽	épuiser
+沢	ruisseau de montagne
+訳	traduire
+択	choisir
+昼	journée
+戸	porte
+肩	épaule
+房	atelier
+扇	ventilateur
+炉	four
+戻	revenir
+涙	larme
+雇	employer
+顧	prendre en considération
+啓	révéler
+示	montrer
+礼	salut
+祥	bonnes auspices
+祝	célébrer
+福	bonheur
+祉	bien-être
+社	temple shintoïste
+視	inspection
+奈	Nara
+尉	officier
+慰	réconfort
+款	bonne volonté
+禁	Interdiction
+襟	nuque
+宗	religion
+崇	Adoration
+祭	rituel
+察	Supposition
+擦	abrasion
+由	c’est pourquoi
+抽	extraire
+油	huile
+袖	manche de vêtement
+宙	univers
+届	remettre
+笛	flûte
+軸	axe
+甲	armure
+押	Appuyer
+岬	avancée de terre
+挿	insérer
+申	je vous dis
+伸	étirer
+神	divinité
+捜	fouiller
+果	fruit
+菓	friandise
+課	leçon
+裸	nu
+斤	hache
+析	analyser
+近	près
+所	lieu
+祈	prier
+折	plier
+哲	philosophie
+逝	défunt
+誓	prêter serment
+暫	un certain temps
+漸	finalement
+断	refus
+質	substance
+斥	rejeter
+訴	plainte
+昨	hier
+詐	mentir
+作	fabriquer
+雪	neige
+録	enregistrer
+尋	renseignement
+急	urgence
+侵	intrusion
+浸	immersion
+寝	être couché
+婦	femme mariée
+掃	balayer
+当	frapper
+争	se quereller
+浄	nettoyer
+事	fait
+唐	Tang
+糖	Sucre
+康	tranquille
+逮	appréhender
+伊	Italie
+君	jeune homme
+群	troupeau
+耐	à l’épreuve de
+需	demande
+儒	confucéen
+端	bord
+両	les deux
+満	Remplir
+画	traits de plume
+歯	dent
+曲	courber
+曹	fils de bonne famille
+遭	mauvaise rencontre
+漕	ramer
+槽	cuve
+斗	grande casserole
+料	recette
+科	faculté
+図	carte
+用	se servir de
+庸	banal
+備	équiper
+昔	Autrefois
+錯	embrouillé
+借	emprunter
+惜	dommage
+措	mettre à l’écart
+散	disperser
+廿	vingt
+庶	peuple
+遮	intercepter
+席	siège
+度	degré
+渡	transit
+奔	précipitation
+噴	éruption
+墳	tombeau
+憤	indignation
+焼	griller
+暁	aube
+半	moitié
+伴	être accompagné
+畔	levée de terre
+判	jugement
+券	coupon
+巻	enrouler
+圏	sphère d’influence
+勝	victoire
+藤	glycine
+謄	reprographie
+片	simple face
+版	édition
+之	de
+乏	insuffisant
+芝	pelouse
+不	négation
+否	non
+杯	coupe à saké
+矢	fléchette
+矯	rectifier
+族	tribu
+知	savoir
+智	sagesse
+矛	hallebarde
+柔	souple
+務	œuvre
+霧	brouillard
+班	équipe
+帰	retour à la maison
+弓	arc
+引	tirer
+弔	condoléances
+弘	vaste
+強	fort
+弱	faible
+沸	bouillonner
+費	dépense
+第	numéro
+弟	frère cadet
+巧	adroit
+号	surnom
+朽	délabré
+誇	vantardise
+汚	Sale
+与	donner
+写	copie
+身	individu
+射	lancer une flèche
+謝	excuse
+老	vieillard
+考	réfléchir
+孝	piété filiale
+教	enseigner
+拷	torture
+者	personne
+煮	mijoter
+著	renommé
+署	signature
+暑	temps lourd
+諸	multiples
+猪	sanglier
+渚	grève
+賭	paner
+峡	vallée étroite
+狭	étroit
+挟	pincer
+追	pourchasser
+師	expert
+帥	commandant
+官	fonctionnaire
+棺	cercueil
+管	tuyau
+父	père
+交	échanges
+効	être efficace
+較	contraste
+校	école
+足	jambe
+促	stimuler
+距	longue distance
+路	chemin
+露	rosée
+跳	saut
+躍	bond
+践	procéder
+沓	soulier
+踏	avancer
+骨	OS
+滑	glisser
+髄	moelle
+禍	calamité
+渦	tourbillon
+過	passer
+阪	coteaux
+阿	flatter
+際	occasion
+随	suivre
+障	gêne
+陪	respecter le protocole
+陽	éclat solaire
+陳	informer
+防	prévenir
+附	joint
+院	inst.
+陣	campement
+隊	régiment
+墜	s’écraser
+降	descendre
+階	étage
+陛	son altesse
+隣	voisin
+隔	distance
+隠	dissimuler
+穏	apaisé
+堕	dégénérer
+陥	être pris au piège
+穴	trou
+空	creux
+窓	fenêtre
+控	modération
+突	poignarder
+究	recherche
+窒	obstruer
+窃	cambrioler
+窪	dépression
+窟	grotte
+搾	presser
+窯	tour a poterie
+窮	extrêmement
+深	profond
+探	tâtonner
+丘	colline
+岳	pic
+兵	soldat
+浜	plage
+糸	fil
+織	tisser
+繕	rapiécer
+縮	rétrécir
+繁	supérieurement
+縦	vertical
+線	ligne
+締	serrer
+維	fibre
+羅	mousseline
+練	pratiquer
+緒	bout
+続	continuer
+絵	image
+統	gouverner
+絞	essorer
+給	alimenter
+絡	enlacer
+結	nouer
+終	finir
+級	classe
+紀	chronique
+紅	cramoisi
+納	installer
+紡	filer
+紛	emmêler
+紹	présentations
+経	cheminement
+紳	gentilhomme
+約	environ
+細	menu
+累	amasser
+索	câble
+総	général
+綿	coton
+絹	soie
+繰	embobiner
+継	sucession
+緑	vert
+縁	véranda
+網	filet
+緊	tendu
+紫	violet
+縛	ficeler
+縄	Corde
+幼	tendre enfance
+後	après
+幽	isolé
+幾	combien
+機	métier à tisser
+玄	mystérieux
+畜	bétail
+蓄	accumuler
+弦	corde d’arc
+擁	étreindre
+滋	nourrissant
+慈	tendresse
+磁	aimant
+系	lignée
+係	chargé de
+孫	petits-enfants
+懸	suspendre
+却	remettre en place
+脚	patins
+卸	vente en gros
+御	honorable
+服	habillement
+命	inée
+令	ordre
+零	zéro
+齢	âge
+冷	froid
+領	domaine
+鈴	clochette
+勇	courage
+通	circulation
+踊	danser
+疑	douter
+擬	imitation
+凝	congeler
+範	modèle
+犯	perpétrer
+厄	malchance
+危	dangereux
+宛	adresse postale
+腕	bras
+苑	jardins impériaux
+怨	rancune
+卵	œuf
+柳	saule
+留	retenu
+貿	négoce
+印	impression
+興	intérêt
+酉	signe de l’oiseau
+酒	vin
+酌	servir à boire
+酵	fermentation
+酷	cruel
+酬	remboursser
+酪	Produits laitiers
+酢	vinaigre
+酔	ivre
+配	distributeur
+酸	acide
+猶	en outre
+尊	révérer
+豆	pois
+頭	tête
+短	court
+豊	abondance
+鼓	tambour
+喜	Se réjouir
+樹	grume
+皿	assiette
+血	sang
+盆	bassin
+盟	alliance
+盗	dérober
+温	chaud
+監	surveiller
+濫	débordement
+鑑	échantillon
+猛	féroce
+盛	prospérité
+塩	sel
+銀	argent
+恨	ressentiment
+根	racine
+即	instantané
+爵	baron
+節	nœud
+退	retraite
+限	limite
+眼	globe oculaire
+良	bon
+朗	radieux
+浪	phénomène vibratoire
+娘	fille
+食	manger
+飯	repas
+飲	boire
+飢	faim
+餓	famine
+飾	décorer
+館	Bâtiment
+養	nourrir
+飽	saturé
+既	déjà
+概	grandes lignes
+慨	repentir
+平	plan
+呼	appeler
+坪	tsubo
+評	évaluer
+刈	moissonner
+希	espoir
+肴	amuse-gueule
+凶	voyou
+胸	poitrine
+離	séparation
+璽	sceau impérial
+殺	tuer
+純	authentique
+鈍	emousse
+辛	épicé
+辞	terme
+梓	catalpa
+宰	superintendant
+壁	mur
+避	éviter
+新	nouveau
+薪	combustible
+親	parent
+幸	joie
+執	prendre en mains
+報	faire savoir
+叫	crier
+糾	corder
+収	fournir
+卑	humble
+碑	pierre tombale
+陸	continent
+睦	intime
+勢	Vigueur
+熱	chaleur
+菱	losange
+陵	mausolée
+亥	signe du cochon
+核	noyau
+刻	graver
+該	concerne
+劾	censure
+述	mentionner
+術	technique
+寒	temps froid
+醸	brasser
+譲	céder
+壌	lot de terrain
+嬢	demoiselle
+毒	poison
+素	élément
+麦	orge
+青	bleu
+精	raffiner
+請	solliciter
+情	compassion
+晴	éclaicir
+清	pur
+静	calme
+責	blâme
+績	performance
+積	volume
+債	dette
+漬	saumure
+表	surface apparente
+俵	sac de paille
+潔	viril
+契	engagement
+喫	consommer
+害	tort
+轄	contrôle
+割	briser
+憲	constitution
+生	vie
+星	étoile
+姓	nom de famille
+性	sexe
+牲	sacrifice animal
+産	production
+隆	protubérant
+峰	sommet
+縫	coudre
+拝	culte
+寿	longévité
+鋳	coulage
+籍	enrôler
+春	printemps
+椿	camélia
+泰	paisible
+奏	concert
+実	réalité
+奉	offrande
+俸	traitement
+棒	bâton
+謹	révérencieusement
+勤	assiduité
+漢	sino-
+嘆	lamentation
+難	difficile
+華	splendeur
+垂	pendre
+睡	ensommeillé
+錘	poids
+乗	chevaucher
+剰	par-dessus le marché
+今	maintenant
+含	inclure
+吟	réciter
+念	désir
+琴	harpe
+陰	ombre
+予	auparavant
+序	préliminaire
+預	dépôt
+野	sauvage
+兼	cumuler
+嫌	aversion
+鎌	faucille
+謙	modestie
+廉	bonne affaire
+西	ouest
+価	prix
+要	nécessité
+腰	Reins
+票	bulletin
+漂	dériver
+標	panneau
+栗	châtaigne
+遷	exiler
+覆	chavirer
+煙	fumée
+南	sud
+楠	camphrier
+献	offrir
+門	portail
+問	question
+閲	revue
+閥	coterie
+間	intervalle
+簡	simplicité
+開	ouvrir
+閉	fermer
+閣	cabinet
+閑	loisir
+聞	entendre
+潤	mouillé
+欄	colonne de journal
+蘭	Hollande
+闘	lutte
+倉	cellier
+創	fondation
+非	in-
+俳	acteur
+排	répudier
+悲	triste
+罪	culpabilité
+輩	camarade
+扉	porte d’entrée
+侯	marquis
+候	climat
+決	décider
+快	agréable
+偉	admirable
+違	être dans l’erreur
+緯	horizontal
+衛	défense
+韓	Corée
+干	sec
+肝	foie
+刊	publier
+汗	sueur
+軒	compteur des maisons
+岸	ligne côtière
+幹	tronc d’arbre
+芋	pomme de terre
+迂	déviation
+宇	cosmos
+余	trop
+除	exclure
+徐	lentement
+叙	décrire
+途	trajet
+斜	penché
+塗	peinture
+束	Fagot
+頼	commander
+瀬	rapides
+勅	rescrit impérial
+疎	négligence
+速	vite
+整	mettre en ordre
+剣	sabre
+険	raide
+検	examen
+倹	austère
+重	lourd
+動	bouger
+勲	fait méritoire
+働	travailler
+種	espèce
+衝	collision
+薫	parfumé
+病	malade
+痴	idiot
+痘	variole
+症	symptôme
+疾	rapide
+痢	diarrhée
+疲	fatigue
+疫	épidémie
+痛	douleur
+癖	Manie
+匿	cacher
+匠	artisan
+医	médecin
+匹	Egal
+区	circonscription
+枢	pivot
+殴	assaut
+欧	Europe
+抑	répression
+迎	accueil
+仰	regarder en l’air
+登	monter
+澄	limpide
+発	émission
+廃	abolition
+僚	collègue
+寮	dortoir
+療	soins
+彫	sculpter
+形	forme
+影	ombre portée
+杉	cèdre
+彩	colorer
+彰	patent
+彦	bonhomme
+顔	visage
+須	nécessité
+膨	gonfler
+参	dérouté
+惨	choquant
+修	discipline
+珍	rare
+診	auscultation
+文	phrase écrite
+対	vis-à-vis
+紋	armoiries
+蚊	moustique
+斉	uniforme
+剤	agent
+済	terminer
+斎	purification
+粛	solennellement
+塁	fortin
+楽	musique
+薬	médicament
+率	taux
+渋	astringent
+摂	déléguer
+央	centre
+英	fleur éclose
+映	projection
+赤	rouge
+赦	pardon
+変	insolite
+跡	traces
+蛮	barbare
+恋	chérir
+湾	golfe
+黄	jaune
+横	latéral
+把	empoigner
+色	couleur
+絶	disparition
+艶	lustré
+肥	engrais
+甘	doux
+紺	bleu marine
+某	untel
+謀	conspirer
+媒	médiateur
+欺	tromperie
+棋	pièce d’échec
+旗	drapeau
+期	période
+碁	go
+基	fondements
+甚	très
+勘	intuition
+堪	résistance
+貴	précieux
+遺	léguer
+遣	expédier
+舞	danse
+無	néant
+組	assembler
+粗	grossier
+租	montant d’argent
+祖	ancêtre
+阻	Faire obstacle
+狙	viser
+査	investigation
+宜	convenable
+助	aider
+畳	replier et empiler
+並	rangée
+普	universel
+譜	partition
+湿	humide
+顕	apparaître
+繊	effilé
+霊	esprits
+業	activité
+撲	battre
+僕	humble serviteur
+共	ensemble
+供	présenter
+異	inhabituel
+翼	aile
+戴	couronnement
+洪	inondation
+港	port
+暴	déchaîné
+爆	exploser
+恭	respectueux
+選	élection
+殿	édifice
+井	puits
+囲	entourer
+耕	labourer
+亜	Asie
+悪	mauvais
+角	angle
+触	contact
+解	délier
+再	encore une fois
+講	cours magistral
+購	acquisition
+構	structure
+溝	rigole
+論	argumentation
+倫	éthique
+輪	roue
+偏	partial
+遍	partout
+編	compilation
+冊	compteur de livres
+典	code
+氏	monsieur
+紙	papier
+婚	mariage
+低	bas
+抵	résister
+底	partie basse
+民	citoyen
+眠	dormir
+捕	attraper
+浦	baie
+蒲	typha
+舗	échoppe
+補	complément
+邸	résidence
+郭	périphérie
+郡	comté
+郊	banlieue
+部	partie
+都	métropole
+郵	courrier
+邦	pays natal
+郷	village natal
+響	résonner
+郎	fils
+廊	couloir
+盾	bouclier
+循	circuler
+派	faction
+脈	vaisseau sanguin
+衆	foule
+逓	au fur et à mesure
+段	grade
+鍛	forger
+后	impératrice
+垢	crasse
+幻	chimère
+司	directeur
+伺	je vous rends visite
+詞	partie du discours
+飼	domestiquer
+嗣	héritier
+舟	bateau
+舶	paquebot
+航	naviguer
+般	global
+盤	plateau
+搬	transporteur
+船	navire
+艦	navire de guerre
+艇	barque
+瓜	melon
+弧	arc de cercle
+孤	orphelin
+繭	cocon
+益	bénéfice
+暇	temps libre
+敷	étaler
+来	venir
+気	humeur
+汽	vapeur
+飛	voler
+沈	noyer
+妻	épouse
+衰	déclin
+衷	au plus profond
+面	masque
+革	cuir
+靴	chaussure
+覇	hégémonie
+声	Voix
+呉	tu me donnes
+娯	divertissement
+誤	erreur
+丞	secours
+承	accepter
+蒸	cuire à la vapeur
+函	coffre
+極	extrêmes
+牙	croc
+芽	bourgeon
+邪	sournois
+雅	grâce
+釈	justification
+番	tour
+審	audition
+翻	voltiger
+藩	clan
+毛	1932 pilosité
+耗	décroître
+尾	queue
+宅	domicile
+託	confier
+為	se trouver dans l’état de
+偽	FAUX
+長	long
+張	allonger
+帳	cahier
+脹	dilater
+髪	cheveux
+展	développement
+喪	perte
+巣	nid
+単	simple
+戦	guerre
+禅	Zen
+弾	boulet
+桜	cerisier du Japon
+獣	bête
+脳	cerveau
+悩	soucieux
+厳	strict
+鎖	chaîne
+挙	faire monter
+誉	réputation
+猟	chasse sportive
+鳥	oiseau
+鳴	gazouiller
+鶴	grue
+烏	corbeau
+蔦	lierre
+鳩	pigeon
+鶏	poule
+島	île
+暖	chaleur humaine
+媛	belle femme
+援	renfort
+緩	défaire
+属	singe savant
+嘱	faire partie de
+偶	par hasard
+遇	entrevue
+愚	stupide
+隅	coin
+逆	inverse
+塑	plastique
+岡	mont
+鋼	acier
+綱	haussière
+剛	fermeté
+缶	boîte de conserve
+陶	poterie
+揺	balancer
+謡	chant
+就	s’attacher à
+墾	essartage
+懇	sociable
+免	excuser
+逸	détourner
+晩	soir
+勉	exercice
+象	éléphant
+像	représentation
+馬	cheval
+駒	poulain
+験	vérification
+騎	cavalier
+駐	stationner
+駆	conduire
+駅	gare
+騒	tapage
+駄	fardeau
+驚	étonnement
+篤	intense
+騰	inflation
+虎	tigre
+虜	captif
+膚	derme
+虚	vacuité
+戯	jeu
+虞	crainte
+慮	prudence
+劇	drame
+虐	tyranniser
+鹿	cerf
+薦	recommander
+慶	jubiler
+麗	charmant
+熊	ours
+能	capacité
+態	attitude
+寅	signe du tigre
+演	interpréter
+辰	signe du dragon
+辱	humilier
+震	tremblement
+振	secouer
+娠	femme enceinte
+唇	Lèvres
+農	agriculture
+濃	concentré
+送	envoyer
+関	relation
+咲	fleurir
+鬼	démon
+醜	laid
+魂	âme
+魔	sorcière
+魅	fascinant
+塊	motte
+襲	attaquer

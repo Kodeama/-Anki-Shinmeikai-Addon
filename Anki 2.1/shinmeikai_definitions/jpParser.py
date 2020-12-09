@@ -69,7 +69,7 @@ def stringContainsKanji(searchTerm):
             return True
     return False
 
-def getWordFrequency(strF, strK):
+def getWordFreq(strF, strK):
 
     if isinstance(strK, list):
         # iterate through each... find smallest

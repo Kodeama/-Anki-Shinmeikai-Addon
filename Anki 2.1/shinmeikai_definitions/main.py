@@ -13,7 +13,7 @@ conf = config.Config()
 
 # Importing mecab from Japanese Support or MIA Japanese Support
 try:
-    reading = importlib.import_module('MIAJapaneseSupport.reading')
+    reading = importlib.import_module('278530045.reading')
     mecab = reading.MecabController()
 except: # If MIA Japanese Support Plugin is not Installed
     reading = importlib.import_module(conf.japaneseSupportPluginFolderName+'.reading')
